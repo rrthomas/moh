@@ -1,0 +1,9 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{moh}[2018/03/04 Mother of Hydrogen style]
+\RequirePackageWithOptions{docbook}
+\usepackage{titlesec}
+\titleformat{\chapter}[block]{\filcenter\huge}{\filcenter}{20pt}{\Huge}
+\usepackage{titletoc}
+\titlecontents{chapter}[1.5em]{\addvspace{1em plus 0pt}\bfseries}%
+{\hspace{-1.3em}}{\hspace{-1.3em}}%
+{\hfill \contentspage}[\addvspace{0pt}]

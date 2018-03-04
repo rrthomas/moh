@@ -33,7 +33,7 @@ dyslexic.
 Vinay Gupta (@leashless) Cloughjordan, Ireland 23rd to 28th of
 November, 2012
 
-== Book One
+== One
 
 Harry sat on the dock, feet dangling just above the green water. His
 sandals sat by his left hand, damp and sandy. The mountains reflected
@@ -2881,7 +2881,7 @@ what else will seem real?”
 
 I’m waiting for the drugs to wear off, so I can think.
 
-== Book Two
+== Two
 
 `[4:33 AM, Sunday 22nd April, 2029. The White House.`]
 
@@ -4850,7 +4850,8 @@ so little anger, so little grief, and so little had happened.
 Then I go home, after four years at the edge of the game, and I’m back
 in the thick of it.
 
-== Adventures
+== Three
+// Adventures
 
 Dad suggests Africa.
 
@@ -6558,7 +6559,7 @@ But Peter’s right. Space is the place. The earth’s no good any more.
 
 It’s over.
 
-== Book Three
+== Four
 
 Jobs in space are scarcer than you’d think, unless you’re a
 biotechnologist. Out there, there’s an entire economy, almost all the
@@ -6921,7 +6922,7 @@ before, at least not real psychedlics.
 
 It’s wild!
 
-== Book Three and a Half
+== Four and a Half
 
 (takes an infinity)
 
@@ -6935,7 +6936,7 @@ Sparrow pulls him back in.
 
 He’s a changed…man?
 
-== Book Four
+== Five
 
 Harry Vine is in space.
 
@@ -7236,7 +7237,8 @@ And now Peter can go home. Harry has gone all the way.
 He has forgiven the Goddess for making him, and for all her
 mistakes. It’s time.
 
-== Peter’s Funeral Wedding
+== Six
+// Peter’s Funeral Wedding
 
 Peter is old. He’s not really sure how old, because he often lives
 much faster than normal people in some periods, and so ages fast, and
@@ -7307,7 +7309,8 @@ Harry was now the King of the World, and Harry was alone.
 But if you want to know what happens next, I’ll have to find the time
 to finish this novel.
 
-== Miko & Peter’s Funeral
+== Seven
+// Miko & Peter’s Funeral
 
 The funeral is achingly simple. They’ve talked the Gaskins, the family that
 owns the meadow where wedding was held, and so Miko and Peter will be
@@ -7420,7 +7423,8 @@ like his own death at his wedding just to escape from the world.
 
 He’s gone, and he’s never coming back.
 
-== The King
+== Eight
+// The King
 
 I see Peter walking up a dark grey gravel path at twilight. He’s twenty or
 thirty feet in front of me, I can clearly hear the gravel crunch at each
@@ -7661,7 +7665,8 @@ say to myself in the night time movie theater.
 The next morning, the King of the World gets up and goes to work. He has a
 date.
 
-== The Beach House
+== Nine
+// The Beach House
 
 Fort Lauderdale is a quiet, cheap place to live. It’s seen better days, but
 the couple of decades it was uninsurable around the 40s from climate storms
@@ -7795,7 +7800,8 @@ he could have put into words, even if he had tried for centuries.
 Next time I see PRIG, I’m going to ask him for his real thoughts, though.
 We may never know, but we saw different sides of Peter. It’s worth asking.
 
-== Space is the Place
+== Ten
+// Space is the Place
 
 PRIG and AL are on opposite sides of a game of Go. AL’s showing PRIG his
 potential moves, projecting patterns of light over the physicality of the

@@ -51,8 +51,8 @@ but Harry had a vague ambition to be a robot designer one day, and had
 looked up the specifications for the lake monitor and quizzed the
 maintainence guy about the device in some detail one summer two years
 ago when it had gone down with a mechanical fault. Harry didn’t really
-understand how the monitor helped people - it was too small to stop
-anybody drowning - but the device was simple enough. Ever-watchful, if
+understand how the monitor helped people—it was too small to stop
+anybody drowning—but the device was simple enough. Ever-watchful, if
 somebody was in trouble, it simply phoned appointed people in the
 schloss to come and help. Harry did not think much about the
 similarity between the lake monitor and similar, less naturally-styled
@@ -169,7 +169,7 @@ operations are really going.
 So Gregory has to piece together substantial parts of “everything is
 fine” by reviewing summarized logs, rather than having an auto-editor
 piece it together for him. Once in a few weeks he’ll catch something
-really important - missed hospital reports of infectious disease that
+really important—missed hospital reports of infectious disease that
 somebody round filed thinking it was taken care of when actually there
 were similar cases popping up in the field, or a little statistical
 anomaly which means somebody’s embezzling on the supply chain. But
@@ -233,8 +233,8 @@ back, and it’ll all be sandwiches and lemonade and some riveting tale
 of fishes.
 
 “Greg, I’d love to, but you know that if he follows me, he’s going to
-have a hell of a life. You know how it’s always been with me - right
-place, wrong time, no excuses - years of hell in India, years of
+have a hell of a life. You know how it’s always been with me—right
+place, wrong time, no excuses—years of hell in India, years of
 trying to put the pieces together. Do you really think he wants that?
 He might stay on the straight path yet.”
 
@@ -266,20 +266,20 @@ their high schools, but over the course of a year adopt uniform,
 drills, salutes, discipline, a chain of command, rank-and-insignia
 (randomly rotated) and, towards the end of the year, combat
 drills. The combat drills use a very similar technology to common
-games systems - goggles, direct electronic stimulation of the
+games systems—goggles, direct electronic stimulation of the
 vestibular system to produce balance and orientation cues and complex
 spatial audio. Civilian systems seldom bother with gloves, and the
-cadet systems have only very basic tactile interfaces - pressure,
-grip, vibration - no force feedback. It saves on maintainence, force
+cadet systems have only very basic tactile interfaces—pressure,
+grip, vibration—no force feedback. It saves on maintainence, force
 feedback systems require a ton of caliberation, and a software error
 can mangle a finger or even an entire hand on a real military rig.
 
-They simulate both kind of combat - in-your-skin and in a robot
+They simulate both kind of combat—in-your-skin and in a robot
 body. Although the prediction has been for years that eventually
 jockeys like Gregory will comprise 100% of the US Armed Forces, there
 are too many jobs which simply require somebody to stand there with a
 node checking that items are physically present (military gear can’t
-use locator nodes) or talking to people about what’s happening - field
+use locator nodes) or talking to people about what’s happening—field
 synethesis of information with full context forces the brain to work
 faster and make better decisions than remote sensor feedback. You just
 can’t fool the limbic system into understanding the gut feel of the
@@ -288,8 +288,8 @@ refuse to treat even fairly humanoid combat robots as if they were
 people. You can’t really win hearts and minds from within a half ton
 steel carcass even if it’s got a very advanced face of a man and a
 melodious voice. It’s still a tank in the minds of ordinary people,
-something the brass - never being allowed near the non-combatant
-populations for fear that just a few of them are switchers - never
+something the brass—never being allowed near the non-combatant
+populations for fear that just a few of them are switchers—never
 seem to understand. You just can’t command loyalty or change belief
 systems in a robot.
 
@@ -313,7 +313,7 @@ do what has to be done.
 
 The kid is 15. He’s young for his cohort, so he won’t actually start
 cadet year until he’s almost 16. It’s summertime again. They’ve fallen
-into the routine now - first few weeks of the summer the family spends
+into the routine now—first few weeks of the summer the family spends
 alone, Helen and the girls fussing over the boy until it’s time for
 Peter to arrive. Peter spends a few days hiking with the whole family
 in the mountains near the summer house, then the men take off on their
@@ -323,10 +323,10 @@ weeks.
 Peter is training Harry in the hope that his personality will be
 strong enough and refined enough to survive the shock of the
 conditioning processes of the cadet year. If anybody understood the
-family’s intention - to produce a child capable of dissent, of doing
+family’s intention—to produce a child capable of dissent, of doing
 something against the National Interest as defined by the chain of
-command, even in uniform - to produce a man capable of disobeying
-direct orders, in fact - they’d all be prosecuted.
+command, even in uniform—to produce a man capable of disobeying
+direct orders, in fact—they’d all be prosecuted.
 
 Gregory understands all too well what the stakes are. His generation’s
 experience of war was heavily shaped by soft propaganda, a lifetime of
@@ -420,11 +420,11 @@ I am 15.
 My uncle and father are, if not medicine men, descended from
 one. We’ve forgotten all that Papa knew, other than the history and
 some of the politics, but Peter’s spent his life recreating it, not
-working from the Native sources - Papa closed the book on that! - but
+working from the Native sources—Papa closed the book on that!—but
 India, China, Jerusalem, Africa, trying to find the sacred thread that
 ties us all together, which could be renewed to build the future.
 
-They don’t think I’m the Messiah, but they’ve failed themselves - eked
+They don’t think I’m the Messiah, but they’ve failed themselves—eked
 out little lives, father still working for State monitoring in Africa,
 herding bots and people, trying to lessen the impact of our
 wars. Peter’s a nomad, which is a polite way of saying a bum, making a
@@ -433,7 +433,7 @@ knowledge, stopping by on communes and ranches, working a little,
 waiting.
 
 My sisters are 8 and 9, and bright and precocious. But I would think
-that - I’m their brother, and they’re blond haired, blue eyed icons of
+that—I’m their brother, and they’re blond haired, blue eyed icons of
 privilege. At least I have dark hair, something of the blood.
 
 Snap to focus. Peter’s drawing a circle on the ground, about 5 meters
@@ -467,7 +467,7 @@ of my being serene and united, beyond-stories, beyond-time, immanent,
 present and manifest, and I am secure in my freedom.”
 
 The words, even in this place and time, never sound hollow. I note
-dad’s backpack has a bunch of technical junk on top of it - broad
+dad’s backpack has a bunch of technical junk on top of it—broad
 spectrum jammers in case some forrestry drone wanders by and whistles
 back. Secure, indeed.
 
@@ -502,7 +502,7 @@ I want to say “and what have you ever done about it?” and I know what
 he’ll say if I open my mouth. “I trained you.”
 
 I’ve seen where this is going for a few years, Uncle Peter’s sense of
-failure turning into a desire to pass the torch. And he’s right - I’m
+failure turning into a desire to pass the torch. And he’s right—I’m
 smarter than he is, at least in book-smart terms, and I’m physically
 gifted. Not much facility for machines, I still lag too much when
 driving a simulator to really compete with my friends, but I’m fast in
@@ -551,8 +551,8 @@ from the time before language saw water, and also as a scientist,
 hydrogen bonds and viscocity and micro structure. When I drink, it is
 cosmic. I’m all life, and without this, I will die. I imagine,
 perhaps, that I can taste the microtoxins, a trace of pesticides and
-heavy metals, and also traces of the tongues of the wildlife upstream
-- wolf spit and deer feet and otters and squirrels and above all
+heavy metals, and also traces of the tongues of the wildlife upstream—wolf
+spit and deer feet and otters and squirrels and above all
 plants.
 
 Sacred.
@@ -569,7 +569,7 @@ start than mine did.”
 Grandparents. It’s supposed to be grandparents, but Frank never got
 it. I think about mom and the girls.
 
-“Can women do this too?” “Yes, but it’s different for them - the Lance
+“Can women do this too?” “Yes, but it’s different for them—the Lance
 is secondary. Men kill as a primary primal activity, and women
 create. Both genders, both roles. The lance for a female helicopter
 pilot would make sense, but your mom plays the fiddle for a living.”
@@ -641,7 +641,7 @@ are. Buzzcut, blue eyes, a square jaw. He’s muscular, but more a
 climber than a weight lifter. Even the Senior Cadets, only a year or a
 year and a half older than us on paper, move with a purpose and
 discipline that leaves me cold. They’re probably the best of their
-classes - teaching is, after all, recruitment. But I also know that we
+classes—teaching is, after all, recruitment. But I also know that we
 don’t grow up naturally that fast in a year. That’s conditioning and
 drugs, shaping them into little soldiers. That’s what Peter and dad
 were armouring me against by pushing me so far so fast so early. When
@@ -717,8 +717,8 @@ blood.
 But the stuff that Peter said keeps going around in my head: not the
 men, the machine. Not the men, the training. They want to shape you
 into a component of the machine that kills the world. I think the
-rhetoric is old, out of date - as far as I can tell, and I’m no
-expert, we’ve stabilized the climate with - surprise - more
+rhetoric is old, out of date—as far as I can tell, and I’m no
+expert, we’ve stabilized the climate with—surprise—more
 machines. But I’m wondering, more and more, how you turn a 17 year
 old, just two years older than me, into a Senior Cadet.
 
@@ -745,7 +745,7 @@ poked at each-other in corridor brawls and he’s fast and fairly well
 coordinated. I like him. We’re wearing lightweight boxing gloves and
 faceguards. We’re asked to keep it friendly.
 
-We’re in the gym, on open mats - no ring. Jim closes a few times, and
+We’re in the gym, on open mats—no ring. Jim closes a few times, and
 I jab, circle and retreat, keeping distance, getting a sense of
 pace. I sense I might be taking this more seriously than him. He’s
 smiling and laughing, I’m focussed. He comes in hard and direct,
@@ -791,7 +791,7 @@ who’ve completed basic military training away from home. The Senior
 Cadets are whip-like fighting machines compared to the cadets. The
 Senior Cadet’s movements are almost identical, adjusted a little for
 build and height, clearly trained in machines. They look almost like
-robots. Peter told me about this - drugs and proprioception-modifying
+robots. Peter told me about this—drugs and proprioception-modifying
 brain stimulation, load the basic physical training in as if you’d
 been practicing from the age of five. But it’s very static, rotes and
 drills. “Mall karate on steroids.”
@@ -878,7 +878,7 @@ answered. They don’t disbelieve in anything, they’re filled with a bit
 of natural wonder and curiosity and a soft-headed gentleness
 and…Gregory wonders for a moment about his own beliefs, how he
 maintains an honest atheism while, at the same time, knows full-well
-that Peter’s powers - mild as they may seem - violate reasonable
+that Peter’s powers—mild as they may seem—violate reasonable
 causality. Not god but nature, but Nature…
 
 As Helen serves the girls, under his breath, Gregory whispers a moment
@@ -973,7 +973,7 @@ while the surface environment is all very regimented and disciplined,
 we all know that a certain amount of mucking about is a reward for
 keeping it together in the official events. Dad says that it’s
 important to build a big network fast in a new organization, and I’ve
-taken the advice - liaison role between our school’s cadets and those
+taken the advice—liaison role between our school’s cadets and those
 in the district. There’s a collab and conference calls a couple of
 times a week and an online workspace which is, thus far, architectural
 renderings of each school on a US basemap. In my “personal effects”
@@ -1049,7 +1049,7 @@ back, smiles and waves. We rise as the circle breaks towards the
 tables, and shake hands. The electricity is tangible. We sit at
 opposite sides of one of the low mess tables, on the cold steel
 benches padded with sleeping bags, and eat soup. I begin to understand
-how seductive this all is - young people on all sides, from all
+how seductive this all is—young people on all sides, from all
 places, meeting, exchanging ideas, broadening horizons, all in
 uniforms from their district, their region, their school and their
 heritage. A thin layer of conformity over “hey, how are you! where are
@@ -1063,11 +1063,11 @@ will do together. The less dilligent talk poltics, or fragments of
 military news or lore passed around as wisdom, or try and have
 split-off side coversations about music or travel or holiday plans. As
 with all the other tents, there’s no senior cadet or other authority
-figure present - they’ll be along presently - but this time we have to
+figure present—they’ll be along presently—but this time we have to
 ourselves.
 
 I could eat her with a spoon. My mind is on anything other than my
-plans - our plans? - for later in the evening.  We’ve talked about it,
+plans—our plans?—for later in the evening.  We’ve talked about it,
 we said we’d see how it was in person, and my calf is against hers
 under the table, touching above the boots, pressed tight. We pretend
 to ignore each other and make conversation with our neighbours. I
@@ -1461,7 +1461,7 @@ moment. Good kid. Operator. Flag and file.
 The next day, everybody’s busy. So many things to do. Discussions,
 lectures, exercises, a display of marksmanship, a long run and
 inspection. Harry and Emma manage to slip away among strangers for
-dinner, but it’s not the same - not wrong, but there’s no time, no
+dinner, but it’s not the same—not wrong, but there’s no time, no
 space, and when they talk it’s all unspoken context and neighbouring
 seats trying to make conversation. He knows they’ll talk on vid soon,
 and in private and…200 miles isn’t that far, maybe we can cook up a
@@ -1636,7 +1636,7 @@ millions of games out there, entire artificial worlds sitting around
 waiting for paying customers to come by. Crowds flow in and out. Here,
 same kids, over and over. You get to know how people play.
 
-I decide I’m going to do something different - run up a side street,
+I decide I’m going to do something different—run up a side street,
 parallel to the main group, provide protection to the main force. I
 don’t really understand the line between initiative and disobedience,
 relative to the computer’s suggested force positioning, and that’s
@@ -1649,13 +1649,13 @@ curves of composite armour panels, arrays of rockets on top. The last
 of them has a microwave dish, almost two meters square. That means a
 beam weapon: trouble. They’re past me in half a second, I have to
 review footage to know exactly what I’ve seen. I radio in to the
-group. They also saw them. Somebody lofts a drone - we should have
-done that earlier - and a live map update shows us two dozen vehicles,
+group. They also saw them. Somebody lofts a drone—we should have
+done that earlier—and a live map update shows us two dozen vehicles,
 some with heavy weapons, between us and our objective. Some are behind
 us.
 
-Alice is TBC - Tactical Battle Coordinator - our “combat chairman.”
-For small group ops we don’t have a Sargeant or a Captain - rank is
+Alice is TBC—Tactical Battle Coordinator—our “combat chairman.”
+For small group ops we don’t have a Sargeant or a Captain—rank is
 entirely notional in operational space. We maintain that stuff in the
 class room because it’s the bureaucratic form of the organization, but
 it’s not how anybody fights. Computers don’t work that way, and so
@@ -1720,7 +1720,7 @@ of power is, frankly, amazing. But it’s still basically in my
 imagination. I can feel the mask on my face, feel the edges of the
 harness. I’m know I’m in school.
 
-But if I was DN - direct neural - nano-electrodes in my head, I would
+But if I was DN—direct neural—nano-electrodes in my head, I would
 experience this all as completely real, there would be zero sense of a
 “real world” and a “simulated world” because the limbic system is tied
 in to the simulation. A DN’s own body won’t let them perceive two
@@ -1762,7 +1762,7 @@ overlapping fields of fire. They’re not making much progress, but it’s
 just a game.
 
 I find a small alleyway and jog up it towards the target. The sim
-designers put in funny little details - clothes on clothes lines,
+designers put in funny little details—clothes on clothes lines,
 piles of garbage in back alleys, but no people. On impulse I force a
 courtyard door, stride across the paving slabs towards the house, up
 three low stairs then crash through a sliding glass door into a
@@ -1860,7 +1860,7 @@ anyway” he says. Peter approves.
 
 “It’s funny.” I don’t want to go into too much detail with Dad here,
 but I’m not going to wait to talk to Peter about this. This is
-urgent. “When we were together, there was a lot of magic - I had a
+urgent. “When we were together, there was a lot of magic—I had a
 couple of moments where I was in a cave, thousands of years ago, or
 something from those times was with me. I saw pentagrams in blue
 outside of the tent, and there was a moment with a whole host of
@@ -1912,7 +1912,7 @@ to intervene, but know it’s not time.
 “What does it mean?”
 
 Father answers, interrupting Peter’s start. “Hon, you know that we
-believe in something - not science, not magic, not religion, but
+believe in something—not science, not magic, not religion, but
 something beyond us, something out there…”
 
 “Yes, but the stars are not people and ’God’ does not talk to us,
@@ -1936,7 +1936,7 @@ of greater plan, but that’s how apes are made. We dream.”
 I sense that this is going nowhere, but maybe the stalemate is
 good. In this instance, as long as she doesn’t interfere, we’re
 fine. I know she doesn’t want me to follow Peter, but I’m not
-following Uncle Peter - he would have run away rather than join the
+following Uncle Peter—he would have run away rather than join the
 service, even as a cadet.
 
 She takes a different angle.
@@ -2091,7 +2091,7 @@ Mom’s heard the truth from Peter, and it’s settled.
 do something. At least get them the basics, when they’re of age. May
 you find a woman who’ll be happy with you, too. Because I know we
 can’t all be like you, not with the world in this state, but you’re
-right - I did judge you because of the state of your life, and I was
+right—I did judge you because of the state of your life, and I was
 wrong.”
 
 Dad, ever reliable, catches it before the entire thing collapses, and
@@ -2164,8 +2164,8 @@ Just. War.
 
 I’ve read about patriotism. It sounds like a disease, but what I’m
 confronted with is worse: it’s the laid-bare workings of the world,
-with the sensors everywhere, and the effectors - that’s us - hands,
-fists, feet and robots - trying to turn the soil of history with the
+with the sensors everywhere, and the effectors—that’s us—hands,
+fists, feet and robots—trying to turn the soil of history with the
 sword, for a harvest of peace and plenty.
 
 This can’t be right.
@@ -2301,7 +2301,7 @@ Colorado, on the front range. He looks down over the Roaring Fork
 Valley, his home for many years, and blesses every single drop of
 water in the rivers, and every atom of air in the skies, for bringing
 life to such a wonder. The red rocks of the hills are blazing in the
-sunset, and Peter and his companions - four humans, two dogs - stand
+sunset, and Peter and his companions—four humans, two dogs—stand
 in a circle, gazing out at the wonder. It is beyond belief.
 
 Peter turns to the others, all younger than he, and says “I’d like to
@@ -2506,7 +2506,7 @@ garden, check in on Dad. Peter stays in the circle while I’m out, and
 vice-versa. We don’t usually leave a circle unmanned, it’s not an
 ironclad rule, but it’s a seriously observed tradition. I want to ask
 him “traditional to who?” but I’ve learned that usually the answer is
-synergetic - bits of this, bits of that, common threads, personal
+synergetic—bits of this, bits of that, common threads, personal
 experiences, or some teacher he stayed with for months or a year or
 two said.
 
@@ -2518,7 +2518,7 @@ hour of doing as close to nothing as I can manage, simply letting
 every thought that arises go again, without greeting each idea with a
 respsonding new idea if I can help it, without a voice of
 acknowledgement for what inner monologue I have, without trying (the
-hardest part, to be without trying to be) - when all that wrestling is
+hardest part, to be without trying to be)—when all that wrestling is
 done, and my mind is fairly quiet, finally he lights the joss
 stick. The smell of sandalwood fills the air, and cedar follows it as
 he lights a red cedar splint.
@@ -2540,7 +2540,7 @@ maintain your equilibrium through it. You’re not pushing anybody,
 you’re just refusing to be pushed.” Magical non-aggression. What
 constitutes an act of war to Peter is a very subtle, high-order
 philosophical concept. He believes that if you don’t put pressure on
-anybody, then nobody can put real pressure on you - you just “shoot
+anybody, then nobody can put real pressure on you—you just “shoot
 out from between finger and thumb like a melon seed.” Easy for him to
 say, he’s an old, childless (?) man who lives in a van.
 
@@ -2668,7 +2668,7 @@ Noted.
 “A mild stimulant to make sure you remember this day for the rest of
 your life, sir!” says a doctor handing out the pills. I briefly
 consider palming it and spitting, but they’re checking pupil dilation
-or something at the door - the very fact the doctor isn’t watching to
+or something at the door—the very fact the doctor isn’t watching to
 see if I take it means ducking it isn’t going to do any good. Casual,
 careless, dozens-a-day manner from the doctor. He’s casual because he
 doesn’t have to pay attention.
@@ -2976,8 +2976,8 @@ specific group, a group who’s history has long been one of
 persecution. In the 1940s, Hitler’s Nazi regime killed almost half the
 Jewish population, in an attempt to extinguish this brave people from
 the face of the earth. Today, and over the last 36 hours, more Jews -
-and people with genetic makeup similar to many common Jewish genotypes
-- have died than in the entire Holocaust.”
+and people with genetic makeup similar to many common Jewish genotypes—have
+died than in the entire Holocaust.”
 
 Crushed. An unthinkable technological Holocaust. A Second
 Holocaust. He knows that’s how it will be termed, it’s obviously how
@@ -3059,8 +3059,8 @@ A silver lining?
 Almost all of the Jews are dead. That the rest of us might not join
 them is, yes, a silver lining.
 
-Whoever did this, and there are only a handful of suspects - all of
-whom have flags, languages and armies - was incredibly
+Whoever did this, and there are only a handful of suspects—all of
+whom have flags, languages and armies—was incredibly
 thorough. Everywhere a substantial number of people converted to
 Judaism and kept their genes to themselves, the original ethnic group
 gets nuked just to get the convert population.
@@ -3138,7 +3138,7 @@ its pin.
 President Knight weight the odds. To kill a President and one
 Ambassador would be unfortunate. To kill two…might also be
 unfortunate. It’s as much armour as he can find. The French chap is
-just here as insurance - two Ambassadors from nuclear states for the
+just here as insurance—two Ambassadors from nuclear states for the
 price of one. A lucky break.
 
 President Knight does not know how much slack a President has before
@@ -3201,7 +3201,7 @@ Brian and back.
 shoot both of you. Brian, I’m going to talk to Guanyin Ziru and tell
 her who was behind the Second Holocaust.”
 
-Brian’s eyes widen. The French Ambassador - portly and unpopular, a
+Brian’s eyes widen. The French Ambassador—portly and unpopular, a
 martinet, sits frozen, clearly thinking he is dreaming, or perhaps
 involved in some terrible practical joke. This is clearly
 impossible. It cannot be real. He can, therefore, ignore it. The
@@ -3460,14 +3460,14 @@ How about three? Four? Sixteen…?
 
 Harry’s limbic brain is in total chaos and disarray. Awakened by years
 of spiritual practice, brought into harmonious coordination with the
-neocortex and even - on occasion - with the fearsome reptile brain,
+neocortex and even—on occasion—with the fearsome reptile brain,
 the basal ganglia, it has a better than even chance of distinguishing
 the drug experience from reality.
 
 Harry gives it time to ponder, and pays attention to what he can
 process consciously. He’s got good time cues, he knows when he took
 the pill and roughly what time it is now. That helps him imagine what
-family of drug it might be part of - Peter’s talked to him extensively
+family of drug it might be part of—Peter’s talked to him extensively
 about these things, although discouraged experimentation (“until
 you’ve mastered your mind, even then, it’s often ill-advised at best”)
 but, still…what’s the drug doing, what’s it saying? To which part
@@ -3555,9 +3555,9 @@ integral part of hearts and minds.
 Gregory says his mantra “Automation means Fraud, Fraud means Waste,
 Waste means Press, and Press means Trouble.” When somebody ratholes
 the systems, they can stay undetected for years. It’s rare, but it’s
-devastating, now we can calulate how exactly how many people - and
-often their names - died because somebody stole from the system. The
-news sites love that stuff - pictures of kids on bicycles riding
+devastating, now we can calulate how exactly how many people—and
+often their names—died because somebody stole from the system. The
+news sites love that stuff—pictures of kids on bicycles riding
 around from before a famine, then DECEASED, KILLED BY OUR CORRUPT
 STATE DEPARTMENT stamped over in big red letters. “Poor Denise Mbatho
 died last week, one of 54 children who have died this year because
@@ -3589,9 +3589,9 @@ the State Department is the logical target.
 “You’re 2.4% of GDP! Why don’t you do more?”
 
 So Gregory flits around, looking for something software would not
-notice - a family camped out in a small shelter excavated out of the
+notice—a family camped out in a small shelter excavated out of the
 center of a pile of rice bags, with a roof covered in more rice bags,
-in one memorable instance - or more usually - rats and a false report
+in one memorable instance—or more usually—rats and a false report
 from the pest control contracts.
 
 Gregory banks the corners and imagines he’s an a fighter, flying
@@ -3672,7 +3672,7 @@ aeroplane with a subtle twist of the shoulders, leaning on the
 non-existent aileron.
 
 No, you can’t teach the kid everything. Walking downstairs, Gregory
-wonders - for no rational reason - if he’ll ever see his son
+wonders—for no rational reason—if he’ll ever see his son
 again. But this is the Senior Cadets we’re talking about: annual
 mortality approximately zero, on a 10 year line. Statistically it’s
 almost certainly safer than staying at school. It’s…
@@ -3893,7 +3893,7 @@ the Crown.
 Ultimately, and then I see it in total, clear relief, sodium light.
 
 Ultimately, we’ve gone beyond our own evolution. All they’re doing at
-Induction is taking the next step - “your real family isn’t the people
+Induction is taking the next step—“your real family isn’t the people
 that made your body, it’s the people who feed and protect you, the
 service.” The shape of the organism has changed, we’re no longer
 little tribes of field monkeys defending rocky outcrops from big cats
@@ -4369,7 +4369,7 @@ between Man and the Machine.”
 
 I look at him and realize that he’s got me through this with my soul
 intact, I haven’t been hacked by the State like poor Emma, slid and
-fallen - but I’m not helped, not by any of this.
+fallen—but I’m not helped, not by any of this.
 
 I wonder where we’re going.
 
@@ -4671,7 +4671,7 @@ However.
 Laurie’s beating a smal drum. On every stroke, her breasts, below the
 deep tan-line of her t-shirts, jiggle. I fall further into
 trance. She’s walking around me very slowly, and she occasionally
-reaches out and touches me in a very probing way - back of my heart,
+reaches out and touches me in a very probing way—back of my heart,
 top of my neck, and just above my groin. I’m fully erect but I don’t
 sense any immediate…it’s not quite sex, whatever is going on.
 
@@ -4803,9 +4803,9 @@ bias towards people returning to education in mid-life. It’s in
 Ottawa, Canada. Four years of Eh? and nice, nice people. I live in an
 apartment with two former nuns in their 50s which is a constant source
 of amusement. They’re a couple, broken out and headed for the real
-world. We have a lot in common - we all like girls. It’s
+world. We have a lot in common—we all like girls. It’s
 very…collegial, an easy companionship between people who are so
-different on the outside, but share the same basic cultural cast - out
+different on the outside, but share the same basic cultural cast—out
 of the system, out of the game, outside.
 
 Laurie and I meet a couple of times a year. We never have sex,
@@ -4886,7 +4886,7 @@ everything. “I heard about it, I didn’t twist any arms.”
 
 He’s aged a bit in the last four years. Hair’s starting to go
 white. Mom’s just the same. The girls are in their final and next-to
-year of high school, and - thank god - neither one is going cadet. It
+year of high school, and—thank god—neither one is going cadet. It
 wasn’t very likely, but it was possible. They’re free, it’s their
 right.
 
@@ -4955,7 +4955,7 @@ If it’s not on camera, all the time, by default, streaming, somebody
 will make sure it’s examined. Once in a while, maybe every five years,
 there’s a mobile lab on a ship or even in a truck discovered, usually
 selling designer embryos or growing organs for people too stupid to
-die, but we’ve all agreed - the Global Consensus - that biotechnology
+die, but we’ve all agreed—the Global Consensus—that biotechnology
 and nanotechnology happen in orbit, and nowhere else. There are a few
 exceptions, traditional crop varieties which were engineered before
 the Second Holocaust, and that’s it. You can’t buy precursors, you
@@ -4971,7 +4971,7 @@ doing. Transparency is Hell.
 
 I’m sitting by my desk, staring out of the window at the smog. They’re
 burning coal to run the city during rainy season. They don’t have
-enough panel capacity - well, enough batteries, really - to keep the
+enough panel capacity—well, enough batteries, really—to keep the
 city full steam ahead during the low sun periods, and they supplement
 with coal. It’s insane, it’s very nearly unique globally, and once in
 a while they try to sell it as a tourist attraction. Weather control
@@ -5077,7 +5077,7 @@ translators to guide the machines, to essentially answer context
 questions that a large corpus translator simply guesses from ten
 million prior examples. This is real, wet research.
 
-The trip to the refugee city is easy enough - we charter a plane,
+The trip to the refugee city is easy enough—we charter a plane,
 board in a gleaming concrete airport with wildlife on the runway, and
 will set down two hours later on a landing strip of woven metal nailed
 down to a cleared strip on the grassland.
@@ -5116,7 +5116,7 @@ picked the factory up, drove it to Harappa, and hired locals for most
 of the labour. They built their own houses and infrastructure as they
 arrived, the city scaling to the labour force, scaling to the
 city. Very organic, very industrial. Very India. They use the Indian
-transport model too - a few roads for freight, and a mass of
+transport model too—a few roads for freight, and a mass of
 self-driving rickshaws suspended just above the houses running on a
 cable network.
 
@@ -5155,7 +5155,7 @@ to be up here a few minutes I think. There are narrow bicycle paths
 below us, mostly become playgrounds at this time of day, just after
 school is out.
 
-The uniformity of the housing does not extend to dress - the people
+The uniformity of the housing does not extend to dress—the people
 bicycling or occasionally riding scooters below us wear literally
 everything. Far more diverse than Kinshasa, much brighter, wilder
 colours. They’re like collages. I feel they might be compensating for
@@ -5297,7 +5297,7 @@ inland from the river. The camp’s dotted with defences.
 
 At dinner, we begin to map the social structure of the camp-city. The
 local political reps (not…mayor, they’re doing something more
-complicated, surprise) explain “reassortment” - people with similar
+complicated, surprise) explain “reassortment”—people with similar
 values simply exchange houses, until pretty much everybody likes their
 neighbours. Everybody has a remote, a bank account, a population
 profile. Systems match buyers and sellers of not just goods but
@@ -5305,7 +5305,7 @@ services, so it’s hard to remain idle if you have even one skill, like
 braiding hair, never mind the people who were laywers, doctors,
 teachers in their previous lives, and are again. The bigger domes we
 see dotted around are not private spaces, but community buildings,
-built using the same panels as the ordinary housing stock - a single
+built using the same panels as the ordinary housing stock—a single
 design for everything here. The mathematics is taught inside of the
 domes constructed using it: convex tiling, rather than Fuller’s
 spherical trigonometry. They still teach using the Harriss Manuals.
@@ -5320,7 +5320,7 @@ The locals like our plans.
 
 “Ah, Dr. Vine” (I don’t correct him, he’s in mid-flow) “you’re
 exploring our cultural dislocation, the underbelly of our cosmopolitan
-lifestyles.” He’s not entirely joking - they’re from all over Africa,
+lifestyles.” He’s not entirely joking—they’re from all over Africa,
 some from families which were in camps in Kenya for nearly a hundred
 years before moving here.
 
@@ -5328,8 +5328,8 @@ years before moving here.
 our old lives. But anybody you see here from around your own age down
 was born here, they’ve always lived in an environment of substantial
 material equality with their neighbours, they’ve always had
-reassortment as an option - a Muslim neighbourhood observes limited
-Sharia law, say - and they’ve always had collective purchasing of food
+reassortment as an option—a Muslim neighbourhood observes limited
+Sharia law, say—and they’ve always had collective purchasing of food
 from our agricultural neighbours to obtain best prices. This is to say
 that they’ve never been “poor” in the sense you would expect, if you
 see what I am saying, and that helps minimize the other kinds of
@@ -5342,9 +5342,9 @@ It sounds too good to be true, and we find out that it is.
 
 The work goes well for four or five months. I settle in to the routine
 of Harappa. You spend a fair amount of time adapting to the
-infrastructure - somebody has to let the toilet guy in, somebody has
+infrastructure—somebody has to let the toilet guy in, somebody has
 to check the water filter is correctly functioning or it simply stops
-delivering water until checked - and the main urban network is
+delivering water until checked—and the main urban network is
 bizarre. It’s a 4.8 million node mesh with a replicated copy of almost
 every human-readable data resource on the planet. Most of the time
 they don’t touch the real grid. It’s 2066, but in many ways they’re
@@ -5495,7 +5495,7 @@ who I am and what I’m about to do. It’s disturbingly easy to slip out
 again, peeking at the world from behind my Puppet. This is easy.
 
 Sot Bjekrall is my weak link, my way in. He’s one of the few White
-Guembe followers - Guembe himself was black, and probably a Nigerian
+Guembe followers—Guembe himself was black, and probably a Nigerian
 although nobody but the CIA knows for sure. Sot wants to believe that
 the rich white boy with the aid project is secretly just like him, the
 washed up old racist.
@@ -5594,7 +5594,7 @@ smiles for him. “Who you have in here, Sot?”
 Sot smiles and says “you, mate” and pushes him inside.
 
 The light comes on, and it’s as Harry feared. There’s a young girl,
-tied to a chair, with - of all things - a rubber dog toy taped in her
+tied to a chair, with—of all things—a rubber dog toy taped in her
 mouth as a gag. She’s been badly beaten and looks terrified.
 
 Harry notices the soundproofing on the inside of the hut. And the
@@ -5700,7 +5700,7 @@ Harry realizes that, actually, he’s in trance. It’s not the blood, it
 might be the killing, but it feels more like history, like something
 coming. He’s rising to the occasion.
 
-Yevish thinks. “Dart him” - indicating Izzy. Harry complies, pulling
+Yevish thinks. “Dart him”—indicating Izzy. Harry complies, pulling
 out the tiny plastic pistol. He fires, barely audible, and the dart
 barely a spec. Izzy slumps to the ground in two seconds. Harry is more
 impressed with the dart pistol than he expected, so he keeps it out
@@ -5932,8 +5932,8 @@ slowly.
 
 “Air?” Harry asks as John turns on the lights.
 
-“43 hours breathable from the cannister in the walls - it’s a
-person-week’s worth in case somebody gets locked in - and low quality
+“43 hours breathable from the cannister in the walls—it’s a
+person-week’s worth in case somebody gets locked in—and low quality
 but survivable day or so from the rebreather in the gas masks” says
 John. They think of everything.
 
@@ -6198,7 +6198,7 @@ gets too hot, what we need to do is kick open the doors, kill as many
 as we can, and try and make a break for it if we can secure a
 corridoor. There’s maybe…150 to 250 outside, though, and we’ve
 got…42 rounds of regular ammunition and another 40 rounds of
-sleep. And they’re armed - we’ve seen pistols, a few antique rifles,
+sleep. And they’re armed—we’ve seen pistols, a few antique rifles,
 but even a 40 year old AK47 will cut a man in half at close range,
 even through light armour possibly. Certainly disabling.
 
@@ -6395,7 +6395,7 @@ This is getting weird.
 I’ve gotten him to turn off the horrorshow he had instead of a face.
 
 I’m sitting on the edge of the box, I don’t want to go back in, but
-he’s right - snipers, say, no good. We get back in.
+he’s right—snipers, say, no good. We get back in.
 
 They guys are going to go to the local Guembe man base, and they’re
 going to “clean it up” before leaving. Because it’s a social
@@ -6518,7 +6518,7 @@ horrendous.
 
 Back in the States, pleasantries aside, he can’t face his father,
 inside he’s destroyed. Everything that is wrong in the world happened
-on that day - the vast reach of Nation State power, the white
+on that day—the vast reach of Nation State power, the white
 privilege, the conceptual over-reach, the use of power, money, time,
 into a perfectly worthy, perfectly justifiable war crime. His father,
 the war criminal. His father, the avenging, protector demigod. His…
@@ -6605,7 +6605,7 @@ To give you some idea of costs, you could buy about a cubic mile of
 Manhattan for what it would cost to decontaminate a family of Loonies
 for clearance to return to Earth. You go “Permanent Red” and there’s
 just not enough money in the world to certify you safe back on the
-rock - they’d have to scrape pretty much every one of your cells
+rock—they’d have to scrape pretty much every one of your cells
 individually, and put it back in a clean place, until they were done.
 
 The Permanent Reds have replicators. The can just punch for “Earl
@@ -6957,7 +6957,7 @@ PRIG, on Peter’s instructions, has dosed Harry Vine with about a
 thousand micrograms of vintage, 100 year old to the day, Sandoz LSD
 diethelamine 25. Before he comes up on the LSD (45m approx.) PRIG puts
 Harry Vine into a space suit, and throws him out of the
-airlock. PRIG’s taken due precautions - he’s evacuated Harry’s stomach
+airlock. PRIG’s taken due precautions—he’s evacuated Harry’s stomach
 and bowels with a pump because vomiting in space isn’t just nasty,
 it’s often fatal. Harry didn’t mind, he was dart-gunned at the time.
 
@@ -7027,8 +7027,8 @@ love. It’s fallen into a solipsistic abyss, in fact. It can’t escape
 without something new happening, something wonderful.
 
 PRIG hopes that Harry can heal his AI, and his AI hopes it can talk to
-another AI from another star system - even with multi-year
-speed-of-light only round-trips - an AI can live forever, after all -
+another AI from another star system—even with multi-year
+speed-of-light only round-trips—an AI can live forever, after all -
 hopes it can learn something so it’s not soooooo sad. PRIG’s AI is,
 without knowing it, a philosopher who should have been a mystic, and
 there’s nobody up here to talk it out of its reasons for
@@ -7533,7 +7533,7 @@ At lunch, I go for a walk, sit in a cafe down the block, pull out my remote
 and a lightweight pair of travel goggles, and check in on my private life.
 AL and I are playing Go together against a team of six humans and two AIs,
 and so far only losing by a small margin. Petra’s arranging a family
-vacation. Half a dozen requests for help of various kinds - a question on
+vacation. Half a dozen requests for help of various kinds—a question on
 meditation, some questions about Harappa from a college student, somebody
 looking for an expert on lunar logistics, relationship advice…Pastoral
 care and future engineering in a bundle. They didn’t quite just dump me in
@@ -7589,8 +7589,8 @@ fashionable here, imported from up north. Soon she and I are sitting on the
 steps of the back porch, underneath the smoke from the grill, chatting
 about what we did in our time in orbit. She went there to study dance, and
 wound up learning the basics of construction coreography, the delicate
-interweaving of people and machines required to efficiently build habitats
-- half logistics, half fine manipulation - all whole systems, right back to
+interweaving of people and machines required to efficiently build habitats—half
+logistics, half fine manipulation—all whole systems, right back to
 the architecture and the original building conception. I realize that
 there’s something more, too. Not just an attraction, there’s some scene of
 magic on her, some angle. I mention my last name, see if she knows Peter.

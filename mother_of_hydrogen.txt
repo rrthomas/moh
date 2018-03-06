@@ -2880,7 +2880,7 @@ I’m waiting for the drugs to wear off, so I can think.
 
 == Two
 
-`[4:33{nbsp}a.m., Sunday 22nd April, 2029. The White House.`]
+`[4:33{nbsp}a.m., Sunday, April 22, 2029. The White House.`]
 
 I am the President of the United States of America. I am about to make
 the most important speech of my lifetime, and possibly the most
@@ -3100,7 +3100,7 @@ To the President’s advisors, it is, frankly, as puzzling as the
 detonation of the first nuclear weapon on Japanese soil was to the
 Japanese.
 
-The Holocaust Plague was released on the 20th of April 2029.
+The Holocaust Plague was released on April 20, 2029.
 
 Hitler’s Birthday.
 
@@ -7895,7 +7895,7 @@ for setting my feet on a Path With A Heart.
 
 == Production notes
 
-This novel preview was produced in six days, 22nd to 27th of November, 2012.
+This novel preview was produced in six days, November 22 through 27, 2012.
 It is a hair over 60,000 words. I do not know how I did it. I
 used Emacs.
 

@@ -1218,7 +1218,7 @@ a long second, then opens her mouth into mine. Her hand’s on the back
 of my head, and the parka hoods meet, making a sudden, ridiculous
 darkness. We laugh, disengage, “try that again!” and I throw the stuff
 into the now-inflated tent. The last thing I clearly remember in the
-ordinary flow of time is looking at the time: 8:34PM.
+ordinary flow of time is looking at the time: 8:34{nbsp}p.m.
 
 '''
 
@@ -2880,7 +2880,7 @@ I’m waiting for the drugs to wear off, so I can think.
 
 == Two
 
-`[4:33 AM, Sunday 22nd April, 2029. The White House.`]
+`[4:33{nbsp}a.m., Sunday 22nd April, 2029. The White House.`]
 
 I am the President of the United States of America. I am about to make
 the most important speech of my lifetime, and possibly the most
@@ -2944,8 +2944,8 @@ Crisis, standing down his own generals who wanted a nuclear war, cost
 him his life. Most of all, he thinks about Bush, who’s national
 security apparatus he sits on top of, nearly thirty years after 9/11.
 
-It is 4:30AM. In sixty minutes he’s going into the studio to record
-the speech, which is officially being given at 6:30AM. He has about
+It is 4:30{nbsp}a.m. In sixty minutes he’s going into the studio to record
+the speech, which is officially being given at 6:30{nbsp}a.m. He has about
 forty minutes to discover how to say something, anything, to eke out
 some gain from what can only become known as the Second Holocaust.
 
@@ -3712,7 +3712,7 @@ her he loves her, tell her everything will be alright. Gregory makes
 the fist again. Tight as a stuck bolt. He’s clearly a lot more worried
 than he consciously feels.
 
-They should get a call around 6PM. He can do a couple of more
+They should get a call around 6{nbsp}p.m. He can do a couple of more
 hours. He rises, pats Helen’s arm, and leaves her to sleep. They’re
 worrying in shifts.
 
@@ -6018,7 +6018,7 @@ them notices the truck tracks, and the message goes back up the line.
 
 '''
 
-Gregory answers the call. It’s 9:30AM his time. He’s at home, checking
+Gregory answers the call. It’s 9:30{nbsp}a.m. his time. He’s at home, checking
 buildings in Sudan. It’s tagged diplomatic. At first he thinks it’s
 work.
 
@@ -6076,7 +6076,7 @@ refusenik at heart. Let me read you this from my files…”
 Gregory considers, for a moment, driving over to the base and killing
 John Gibbons. But that won’t bring his boy back.
 
-He checks the clock. His wife is due home at 4:30pm. He’s not going to
+He checks the clock. His wife is due home at 4:30{nbsp}p.m. He’s not going to
 tell anyone. Not yet. Let it play out. He’ll give the family
 conclusions.
 
@@ -6464,7 +6464,7 @@ Shh. Play dumb.
 
 '''
 
-By 4:30 PM, things are back in order. The robots are on their way back
+By 4:30{nbsp}p.m., things are back in order. The robots are on their way back
 to Rwanda. The guys have arranged a reunion and are booking plane
 tickets as we speak. I’m officially the coolest dad in the world, a
 damn fine drone pilot, and…without a doubt…the luckiest father

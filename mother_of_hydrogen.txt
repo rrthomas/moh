@@ -1,7 +1,9 @@
 // -*- adoc -*-
 // a2x: --doctype book
 //
-// Suppress revision history in output
+// a2x: --dblatex-opts "--param=page.width=156mm --param=page.height=234mm --param=page.margin.top=23.4mm --param=page.margin.bottom=46.8mm --param=page.margin.inner=15.6mm --param=page.margin.outer=31.2mm"
+//
+// Don’t include revision history
 // a2x: --dblatex-opts "--param=latex.output.revhistory=0"
 //
 // Show only chapters in ToC

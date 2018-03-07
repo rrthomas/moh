@@ -1,10 +1,19 @@
 // -*- adoc -*-
-// FIXME: the below does not currently take effect
-// Suppress revision history in dblatex outputs.
-// a2x: --dblatex-opts "-P latex.output.revhistory=0"
-// Build with: a2x --dblatex-opts "-P latex.output.revhistory=0 --texstyle=moh" -d book mother_of_hydrogen.txt
+// a2x: --doctype book
+//
+// Suppress revision history in output
+// a2x: --dblatex-opts "--param=latex.output.revhistory=0"
+//
+// Show only chapters in ToC
+// a2x: --dblatex-opts "--param=toc.section.depth=0"
+//
+// Number only chapters in text.
+// a2x: --dblatex-opts "--param=doc.section.depth=0"
+//
+// Use moh.sty
+// a2x: --dblatex-opts --texstyle=moh
 //////////////////////////
-Make a title page:
+FIXME: Make a title page:
 
 	M O T H E R o f
 

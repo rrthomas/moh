@@ -15,5 +15,5 @@ You will need `asciidoc`, `dblatex` and a LaTeX system such as TeXLive.
 To build a PDF, use the following command:
 
 ```
-a2x --dblatex-opts "-P latex.output.revhistory=0 --texstyle=moh" -d book mother_of_hydrogen.txt
+a2x mother_of_hydrogen.txt
 ```

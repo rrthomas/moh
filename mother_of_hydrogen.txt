@@ -9,7 +9,7 @@
 // Don’t include ToC
 // a2x: --dblatex-opts "--param=doc.toc.show=0"
 //
-// Number only chapters in text.
+// Make verse appear in normal font.
 // a2x: --dblatex-opts "--param=literal.class=normal"
 //
 // Use moh.sty

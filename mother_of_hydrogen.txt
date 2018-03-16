@@ -7024,6 +7024,7 @@ Harry is Awake.
 He gazes directly at the infinite star-field in front of him, and
 unbidden to his lips comes the Creed of the Astronauts.
 
+// FIXME: edit
 [verse]
 ____________________________________________________________________
 Mother of hydrogen, thou art the void;

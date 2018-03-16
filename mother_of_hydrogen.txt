@@ -12,6 +12,9 @@
 // Number only chapters in text.
 // a2x: --dblatex-opts "--param=doc.section.depth=0"
 //
+// Number only chapters in text.
+// a2x: --dblatex-opts "--param=literal.class=normal"
+//
 // Use moh.sty
 // a2x: --dblatex-opts --texstyle=moh
 //////////////////////////

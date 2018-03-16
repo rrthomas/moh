@@ -6,11 +6,8 @@
 // Don’t include revision history
 // a2x: --dblatex-opts "--param=latex.output.revhistory=0"
 //
-// Show only chapters in ToC
-// a2x: --dblatex-opts "--param=toc.section.depth=0"
-//
-// Number only chapters in text.
-// a2x: --dblatex-opts "--param=doc.section.depth=0"
+// Don’t include ToC
+// a2x: --dblatex-opts "--param=doc.toc.show=0"
 //
 // Number only chapters in text.
 // a2x: --dblatex-opts "--param=literal.class=normal"
@@ -18,17 +15,8 @@
 // Use moh.sty
 // a2x: --dblatex-opts --texstyle=moh
 //
-// Use moh.xsl dblatex XSL customizations
-// a2x: --dblatex-opts "--xsl-user=moh.xsl"
-//////////////////////////
-FIXME: Make a title page:
-
-	M O T H E R o f
-
-	H Y D R O G E N
-//////////////////////////
-
-= Mother of Hydrogen: A Novel 
+// FIXME: New title page, page headers & footers
+= Mother of Hydrogen
 
 == Preface
 
@@ -139,7 +127,7 @@ wheel and a mandolin and, some years, a dog or two riding saddles
 or…”look over his shoulder, but for God’s sake don’t go off on the
 whole trip with him, son!”
 
-'''
+== Two
 
 Peter eased through the form. Deeply familiar, he was not quite in
 tune with his actions, not quite fully focused. In the edges of his
@@ -161,7 +149,7 @@ keeps up the practice, or if one day he’ll return to the sword form,
 finally ready to put in the time to move from wood to steel, from the
 curved saber to the perfection of the straight sword. Perhaps in time.
 
-'''
+== Three
 
 Gregory closes the door and pulls the blinds. Countersurveillance nodes
 report, in the small green indicator under the clock, that there are no
@@ -238,7 +226,9 @@ do the job right, or will avuncular affection breed bad habits?
 
 Peter’s sitting on a stump, checking messages.
 
-“Lunch?” “Yeah, let me phone the kid. Is Helen joining us?”
+“Lunch?”
+
+“Yeah, let me phone the kid. Is Helen joining us?”
 
 Gregory thinks about how to broach the subject.
 
@@ -283,7 +273,7 @@ It’s settled. Hopefully they’ll never get caught. They go inside, and
 eat sandwiches, and ponder the war watching the kid grow up in front
 of their eyes.
 
-'''
+== Four
 
 At fifteen, all of the boys and an increasingly large percentage of
 girls (for them it’s voluntary) take a year’s cadet training. They stay in
@@ -334,7 +324,7 @@ America knows, without a doubt, that this may be a fight to the
 finish, a war without end, and America is armed, girded and warded, to
 do what has to be done.
 
-'''
+== Five
 
 The kid is fifteen. He’s young for his cohort, so he won’t actually start
 cadet year until he’s almost sixteen. It’s summertime again. They’ve fallen
@@ -365,7 +355,7 @@ all the need to be part of a smoothly-functioning war machine,
 something capable of maintaining all that’s wholesome and sacred in
 integrity and power.
 
-'''
+== Six
 
 Peter and Gregory sit by a smoky, damp camp fire. A little drizzle in
 the afternoon dampened the deadwood they gathered from the forest, and
@@ -438,7 +428,7 @@ Harry’s timing is always uncanny. It’s one of his gifts.
 
 “Spear?”
 
-'''
+== Seven
 
 I am fifteen.
 
@@ -642,7 +632,7 @@ I recognize myself in the mirror.
 All life, on two legs, and not a pair of braincells to rub together. I am
 fifteen.
 
-'''
+== Eight
 
 The cadet process is mostly social. At first it’s a game, a
 role-play. We’re still riding to school on our bikes or dropped off by
@@ -752,7 +742,7 @@ It’s an education for national service. But I’m getting stronger, and
 I’m starting to put more and more of what dad and Uncle Peter said
 into context. The people in the service are like cells in an organism.
 
-'''
+== Nine
 
 On the first day of cadet combat training, I break Jim’s nose.
 
@@ -847,7 +837,7 @@ the war, on one side or the other.
 But the next stop is very definitely going to be girls. I want to see
 what all the fuss is about.
 
-'''
+== Ten
 
 Helen sets the table. They’re eating later than usual; Greg’s been
 finishing up work, and she’s testy because she’d hoped for a nice
@@ -969,7 +959,7 @@ reality. A moment of force? He’ll call Peter later, they should
 probably check in. He opens a bottle of wine, pours two glasses, and
 thinks, We can talk tomorrow.
 
-'''
+== Eleven
 
 I’m in in New Jersey, the Pine Barrens. Our school’s cadets are
 camping out in the October chill with cadets from a couple of dozen
@@ -1118,7 +1108,7 @@ trying to not make a fool of myself in front of Emma.
 She’s beautiful. I knew that from vid calls, but in person, she’s
 beautiful. Beautiful. Beautiful.
 
-'''
+== Twelve
 
 Things are a little different among the senior cadets.
 
@@ -1155,7 +1145,7 @@ pressure on my mind that comes from the enemy.
 
 And there isn’t one here. I’m getting old.
 
-'''
+== Thirteen
 
 After the senior cadets have given us a short address and outlined
 the plan for tomorrow, we are encouraged to
@@ -1249,7 +1239,7 @@ darkness. We laugh, disengage, “try that again!” and I throw the stuff
 into the now-inflated tent. The last thing I clearly remember in the
 ordinary flow of time is looking at the time: 8:34{nbsp}p.m.
 
-'''
+== Fourteen
 
 The Colonel is tired. Alone, the senior cadets sent off to their
 stations. He watches the various fires and tents on a remote; happy,
@@ -1285,7 +1275,7 @@ make it, anyway.
 A hot flask of coffee accompanies his rounds. He’s actually quite
 pleased with the shape of the evening.
 
-'''
+== Fifteen
 
 The heater block is amazing. We don’t camp in the winter, it’s always
 summer when we’re up in the mountains for the music school. It’s warm, dark,
@@ -1434,7 +1424,7 @@ a bench. The tent has a bit less than twenty people in it, unfortunately
 including the Colonel, who’s mid-way through a story about meeting the
 President a few years ago, but he pays no attention to my entrance.
 
-'''
+== Sixteen
 
 The cadet who comes in is carrying a bag stuffed with gear. He’s
 extremely watchful and nervous. The bag is parked with forced
@@ -1481,7 +1471,7 @@ A family history of tradecraft.
 Colonel John Gibbons stretches out a little and has a satisfied
 moment. Good kid. Operator. Flag and file.
 
-'''
+== Seventeen
 
 The next day, everybody’s busy. So many things to do. Discussions,
 lectures, exercises, a display of marksmanship, a long run, and
@@ -1522,7 +1512,7 @@ unable to put a face to the name, although he’d remember the story.
 
 Files.
 
-'''
+== Eighteen
 
 We are standing in identical pods, twenty-four cadets, in the lab. The pods are
 about a meter across, a black metal mesh grid to stand on, and a
@@ -1606,9 +1596,8 @@ a strategic role inside, hang back, pick off snipers, crew the heavy
 weapons, cast the spells, whatever. I can keep up, I’m not a drag on
 the party. I’m just not the simulation king.
 
-'''
-
-=== SIMWAR
+== Nineteen
+// SIMWAR
 
 I’m doing dad’s old job. We’re lumbering around in three-ton
 powersuits, cadets clanging enormous metal feet off the simulated
@@ -1837,7 +1826,7 @@ hand to my mouth and bite my finger, as he mirrors me.
 
 Just a dream.
 
-'''
+== Twenty
 
 Uncle Peter has arranged to visit us in Upstate New York. This is
 unusual, but not unexpected. It is, after all, Thanksgiving.
@@ -2149,7 +2138,7 @@ even look like, but what other hope do I have?
 
 The machine grinds on.
 
-'''
+== Twenty-One
 
 By spring, I’m sim-combat proficient, in both simplified, simulated
 robotic combat, and the brutally realistic simulated real combat
@@ -2202,7 +2191,7 @@ Destiny.”
 I don’t worry that I’m indoctrinated. I worry that I might be
 convinced.
 
-'''
+== Twenty-Two
 
 It’s July 4th weekend, and Emma and I are in Washington. A few of
 our friends in this Cadet year know we’re a couple now, at least in as
@@ -2319,7 +2308,7 @@ Manipulation?
 
 I’m not sure I’d know how. I’m afraid that if I did, I’d try.
 
-'''
+== Twenty-Three
 
 Peter stands on top of a fourteener, a 14,000-foot-high mountain, in
 Colorado, on the front range. He looks down over the Roaring Fork
@@ -2357,7 +2346,7 @@ It is all blessed, and it is all holy, and my knees hurt, he thinks as
 they descend to a safe altitude to spend the night of his birthday
 stargazing.
 
-'''
+== Twenty-Four
 
 Ten days before I move into the barracks and become a Senior Cadet at
 Induction, Peter reappears. He’s been making himself scarce most of
@@ -2478,7 +2467,7 @@ days than that. We’d better get started.
 I realize now what the safe is for. It’s symbolic, all
 right. Symbolic, and practical.
 
-'''
+== Twenty-Five
 
 The next morning, we begin. We move the smaller furniture out of the
 guest bedroom and flip the bed up against the wall, then Peter
@@ -2666,7 +2655,7 @@ Prematurely.
 
 Monday’s the induction. Can we save the party till then?
 
-'''
+== Twenty-Six
 
 Induction. I’m going through induction.
 
@@ -2910,7 +2899,7 @@ what else will seem real?”
 
 I’m waiting for the drugs to wear off, so I can think.
 
-== Two
+== Twenty-Seven
 
 `[4:33{nbsp}a.m., Sunday, April 22, 2029. The White House.`]
 
@@ -2987,7 +2976,7 @@ word genocide…event is on our soil.
 
 History has come. With teeth.
 
-'''
+== Twenty-Eight
 
 He begins the speech. First, our collective guilt. We let the Jews
 down again. It’s the wrong start, but it’s all I’ve got. His voice
@@ -3071,7 +3060,7 @@ that’s the final word.
 Mr.{nbsp}President wants a drink. But Mr.{nbsp}President has been sober for fifteen
 years, and he is not going to let this break him.
 
-'''
+== Twenty-Nine
 
 Israel’s a charnel ground; so are New York, the Ukraine, even parts of
 Africa.
@@ -3144,7 +3133,7 @@ people cope.
 
 The search continues. The trail, eventually, leads where it does.
 
-'''
+== Thirty
 
 President Knight goes down in history for one act only: he tells the
 truth. Here’s how it really happened, the inside scoop. I
@@ -3333,7 +3322,7 @@ silence.
 
 When the helicopters come, it is already too late.
 
-'''
+== Thirty-One
 
 Guanyin Ziru estimates she has ten minutes before somebody comes
 through her front door with a gun. It’s close: eight and a half.
@@ -3384,7 +3373,7 @@ Peace is fragile. Faith helps.
 
 China awaits further developments with considerable interest.
 
-'''
+== Thirty-Two
 
 President Knight sits, absurdly, in police custody.
 
@@ -3460,7 +3449,7 @@ everything.
 
 And also nothing.
 
-'''
+== Thirty-Three
 
 Harry Vine walks at an even pace around the running track watching his
 mind very carefully, looking for signs the drugs are wearing off. The
@@ -3548,7 +3537,7 @@ Puppet totem, the master hidden as the slave, is a potent myth.
 Even if it never existed yesterday. Harry has his myth. Harry has had his
 initiation.
 
-'''
+== Thirty-Four
 
 Gregory is in a microcopter, a light aircraft about sixteen
 centimeters across, weighing fifty grams. Micro-mechanical motors keep it
@@ -3746,7 +3735,7 @@ worrying in shifts.
 
 With good reason.
 
-'''
+== Thirty-Five
 
 Peter hums merrily along the highway in the van. He’s playing the
 mandolin as the road drives the van, not a care in the world. He’s let
@@ -3804,13 +3793,13 @@ beyond the dream, and into dreamless sleep.
 The van rolls down the highway, thinking about nothing beyond road
 safety and driving heuristics. It’s going to Asheville.
 
-'''
+== Thirty-Six
 
 Gregory falls asleep in the chair before he can plug into the next
 node. Nobody minds, it happens sometimes. If it’s urgent, they’ll wake
 him up with beeps and vibrating gloves.
 
-'''
+== Thirty-Seven
 
 I’m sitting on the floor of the disabled access bathroom, door locked,
 cross legged on a field jacket. I am going to sort this out now, or
@@ -4174,7 +4163,7 @@ in the safe are my keys and remote when I’m asleep, and a single sheet
 of origami paper, with a box drawn on it freehand and a box of
 matches. I have no secrets.
 
-'''
+== Thirty-Eight
 
 Emma and I are talking. She’s very, very angry with me.
 
@@ -4217,12 +4206,12 @@ and then slip away below the mask of duty.
 I fold the box around myself quickly and calmly, and let The Puppet
 take care of it. I’ll be back later.
 
-'''
+== Thirty-Nine
 
 Everything which was great in the past eventually faded away. What
 made you think this was going to last forever?
 
-'''
+== Forty
 
 At the end of the year, my Puppet has learned to
 take orders, give orders, fire a non-sim rifle, spent a little time
@@ -4318,7 +4307,7 @@ subsystem of The Machine. It’s just a blind maze.
 It all drains right out of me, the cadet thing; I’m as empty as I was
 on that bathroom floor after Induction. It’s time to go home.
 
-'''
+== Forty-One
 
 I go home from the base, in my grays, a Senior Cadet in everybody’s
 eyes, but inside I’m a hollow man. There’s nothing left.
@@ -4354,7 +4343,7 @@ What has it come to?
 
 I can’t find a place, I can’t find a place to be.
 
-'''
+== Forty-Two
 
 I lie in bed for a month, depressed, weepy. It all seems so pointless,
 so violent, I can’t wrap my head around any of this. I put on a brave
@@ -4612,7 +4601,7 @@ me.
 
 “Great. Talk to her tonight.”
 
-'''
+== Forty-Three
 
 It gets weirder. Laurie and I sit on the porch of her end of the cabin
 she shares with her sister and brother-in-law, and Laurie says,
@@ -4658,7 +4647,7 @@ also…Spear. Cup. Spear. Cup.
 
 Magic.
 
-'''
+== Forty-Four
 
 Harry stands inside the tiny room. He’s wearing a towel, and two
 strands of red beads.
@@ -4817,7 +4806,7 @@ Then there is only silence.
 I no longer feel dead, and I’m no longer confused about what comes
 next, only what has gone before. I want to go to college.
 
-'''
+== Forty-Five
 
 I am no longer a Senior Cadet. I’m a college student. Cognitive
 Anthropology.
@@ -4875,7 +4864,7 @@ so little anger, so little grief, and so little had happened.
 Then I go home, after four years on the sidelines, and I’m back
 in the thick of it.
 
-== Three
+== Forty-Six
 // Adventures
 
 Dad suggests Africa.
@@ -4940,11 +4929,9 @@ pay, and I wouldn’t be the man I am now if I hadn’t paid it.
 Man. No doubt about it now. If there’s a line, I’m way over it.
 Only thing I haven’t done is had kids.
 
-'''
+== Forty-Seven
 
-=== Kinshasa, Spring 2066
-
-Kinshasa’s been through boom and bust so many times I’m amazed it’s
+Spring, 2066. Kinshasa’s been through boom and bust so many times I’m amazed it’s
 still in one piece.
 
 Our office is on the 47th floor of the one real skyscraper, a
@@ -5083,7 +5070,7 @@ I’m going to the camp as soon as I can, and I’m going to get my teeth
 into the first really tangible, worthwhile thing I’ve ever done. I’m
 going to make a difference. Mortals plan, and gods laugh.
 
-'''
+== Forty-Eight
 
 It takes about six months to get everything ready, which is to be
 expected. My employers know how long it really takes to get buy in,
@@ -5155,7 +5142,7 @@ they choose to live here, how bad can it really be?”
 
 I’m about to find out.
 
-'''
+== Forty-Nine
 
 The original Harappa was a fortress of twenty thousand souls in ancient
 India. For its time it was huge. Our Harappa is not fortified, but it’s just as
@@ -5361,7 +5348,7 @@ tensions you would expect in our transplanted population.”
 
 It sounds too good to be true, and we find out that it is.
 
-'''
+== Fifty
 
 The work goes well for four or five months. I settle in to the routine
 of Harappa. You spend a fair amount of time adapting to the
@@ -5422,7 +5409,7 @@ the zombie form, the mythic version, lives on.
 
 Perhaps we could figure out its weakness, and kill it too?
 
-'''
+== Fifty-One
 
 “Harry, take a look at this!”
 
@@ -5467,7 +5454,7 @@ I just don’t want to know what he did in those days.
 
 My second mistake: I get curious.
 
-'''
+== Fifty-Two
 
 I’m talking to the Camp Communications Chief. He’s a nervous, shy
 fellow, for a telecommunications exec running comms-and-compute for
@@ -5505,7 +5492,7 @@ need evidence to take this further. So let’s get some? Deal?”
 
 Eminently rational, Thomas, eminently rational. How?
 
-'''
+== Fifty-Three
 
 And that’s how I come to join the Cult of Guembe. I alter my history -
 I’m now a combat veteran with a tour in the service,
@@ -5559,7 +5546,7 @@ see some sights,” I gesture to the tiny cameras that Thomas has decked
 me out with, “and we’re going to get comms access and roll these guys
 right up. It’s going to be fine, at least for us.”
 
-'''
+== Fifty-Four
 
 I come to Sot’s hut at dusk on Thursday, a little early. I’m carrying
 a bottle of whiskey, a sedative dart gun, and the biggest knife I could
@@ -5801,7 +5788,7 @@ ambulance. When they return in the morning, Sot is
 gone, and with him the bodies, the weapons, and the bones.
 All that’s left is the blood.
 
-'''
+== Fifty-Five
 
 They run through the camp. It’s not far. Sally takes an indirect
 route, and calls ahead.
@@ -6007,7 +5994,7 @@ Nothing. No signal. Of course they’re using a jammer.
 
 We. Are. Fucked.
 
-'''
+== Fifty-Six
 
 “Kinshasa…yes I’ll hold. No, this is an emergency. No it cannot
 wait. No, I need to talk to the duty officer managing assets in Congo
@@ -6027,7 +6014,7 @@ them notices the truck tracks, and the message goes back up the line.
 
 “We’re too late.”
 
-'''
+== Fifty-Seven
 
 Gregory answers the call. It’s 9:30{nbsp}a.m. He’s at home, checking
 buildings in Sudan. It’s tagged diplomatic. At first he thinks it’s
@@ -6061,7 +6048,7 @@ transcripts, from before the last-known footage. Fuck.
 
 Catastrophe. Send in the marines.
 
-'''
+== Fifty-Eight
 
 Gregory uses his State Department channels to accelerate the call for
 military aid. Unfortunately, there’s a problem.
@@ -6089,7 +6076,7 @@ John Gibbons. But that won’t bring his boy back.
 He checks the clock. His wife is due home at 4:30{nbsp}p.m. He’s not going to
 tell anyone. Not yet. Let it play out. He’ll tell the family when he knows how it ends.
 
-'''
+== Fifty-Nine
 
 Gregory looks at a map. Plots a locus three hours and fifteen minutes’
 drive from the last known position, and sets it to widen automatically as
@@ -6155,7 +6142,7 @@ on Gregory’s entire career than he’d ever imagined possible.
 
 Operation Save Harry might actually work.
 
-'''
+== Sixty
 
 To the Guembe men, this is a special occasion. Within this tasty,
 tasty tin can, there are at least four killers. And there is nothing
@@ -6193,7 +6180,7 @@ inside.
 This is a good day, the king reflects. Maybe they’ll roast the boy
 anyway!
 
-'''
+== Sixty-One
 
 We have visual. Thomas’s drone has field of view over about half the
 scene from its hiding place, and we’re not going to risk losing that
@@ -6236,7 +6223,7 @@ which will, please God, by then contain only sleeping men and keys. It’s
 
 Time to go.
 
-'''
+== Sixty-Two
 
 Showtime.
 
@@ -6462,7 +6449,7 @@ Knocking on the door, and an American voice.
 
 Shh. Play dumb.
 
-'''
+== Sixty-Three
 
 By 4:30{nbsp}p.m., things are back in order. The robots are on their way back
 to Rwanda. The guys have arranged a reunion and are booking plane
@@ -6498,7 +6485,7 @@ dinner. She makes a reservation.
 
 “So how was your day?”
 
-'''
+== Sixty-Four
 
 She never finds out.
 
@@ -6548,7 +6535,7 @@ Peter’s right. Space is the place. The Earth’s no good any more.
 
 It’s over.
 
-== Four
+== Sixty-Five
 
 Jobs in space are scarcer than you’d think, unless you’re a
 biotechnologist. Out there, there’s an entire economy; almost all the
@@ -6620,7 +6607,7 @@ Amazing things are happening, but they’re rare. We don’t have enough
 natural resources for everybody to have a flying car. Most people are
 still farmers, you know?
 
-'''
+== Sixty-Six
 
 After Peter says it, it’s obviously true. I need to get some
 perspective, I’m tearing myself apart. Too much intense experience,
@@ -6713,7 +6700,7 @@ PRIGs?
 
 And suddenly I’m talking to an AI.
 
-'''
+== Sixty-Seven
 
 Artificial intelligence turns out to be boring. What you actually
 mean, when you say Artificial Intelligence, is “Artificial
@@ -6721,7 +6708,7 @@ Personality.”
 
 One of Peter’s aphorisms, better forgotten.
 
-'''
+== Sixty-Eight
 
 I’m coming to grips with this. I thought I’d seen the full picture,
 but, actually, the embargoes between the Earth and the Moon are almost
@@ -6758,7 +6745,7 @@ difference.
 I’m suddenly not so worried about myself and my head any more,
 though. I have a whole new world to explore. Several, in fact.
 
-'''
+== Sixty-Nine
 
 She…or he, or they…floats through space completely naked, nipples pert, completely hairless. The figure’s head is chromed, and there is a
 strategic jewel at each chakra.
@@ -6787,7 +6774,7 @@ still Homo anything? I can’t tell. AI.
 
 “AAAAAAIIIIIIIII,” as I pronounce it.
 
-'''
+== Seventy
 
 Now Peter’s punted his heir out of the
 way, he can get on with establishing his legacy.
@@ -6819,7 +6806,7 @@ they’ll kill him!
 
 If only his memory wasn’t going, he could make all the arrangements!
 
-'''
+== Seventy-One
 
 Dr.{nbsp}Goppti is dead.
 
@@ -6827,22 +6814,22 @@ He opens one eye to check.
 
 It’s not working!
 
-'''
+== Seventy-Two
 
 PRIGs a front for the AIs.
 
-'''
+== Seventy-Three
 
 The AIs are a front for the Buddhas?
 
-'''
+== Seventy-Four
 
 All of the conspiracy theory shit that was so much my stock-in-trade
 when I was alive, thinks Robert Anton Wilson, has stopped on
 Earth. Now it’s only in space that we’re active enough, bold enough,
 _enthusiastic_ enough, to actually have some secrets!
 
-'''
+== Seventy-Five
 
 The real Black Pope, who is not Peter, changes his shoes for his
 slippers and wonders how he’s going to pay next year’s rates on the
@@ -6857,13 +6844,13 @@ World Heritage Site? He’d love to be the director of that, open it all
 up as a museum, tell the true story. We know all about the Black
 Madonna here.
 
-'''
+== Seventy-Six
 
 Peter knows it’s all coming together, at this, the end of his life. The
 end of Peter’s life is the end of the world, this world at least, and
 the beginning of the next.
 
-'''
+== Seventy-Seven
 
 Dr.{nbsp}Goppti cannot die yet. He’s tried it. None of the poisons work, and
 the guns don’t fire.
@@ -6872,7 +6859,7 @@ How curious. I think I read about this when I was a young man.
 
 Bābājī?
 
-'''
+== Seventy-Eight
 
 As Peter dies, the world comes to a focus around him, as it
 does for every Magician of an Age. He is not, in truth, the Secret
@@ -6882,7 +6869,7 @@ He’s the King of the World.
 
 He didn’t start out this way!
 
-'''
+== Seventy-Nine
 
 Peter, Frank and I are all imaginary from the perspective of this
 AI, thinks Harry. I, on the other hand, know I am quite real. How am I going
@@ -6893,14 +6880,14 @@ actual physical-origami box. Perhaps we could talk about that.
 
 The AIs begins to stir, Conscious. Someone is Coming.
 
-'''
+== Eighty
 
 Harry Pine is tripping on the Space Station. He’s never taken drugs
 before, at least, not real psychedelics.
 
 It’s wild!
 
-== Four and a Half
+== Eighty-One
 
 (takes an infinity)
 
@@ -6914,7 +6901,7 @@ Sparrow pulls him back in.
 
 He’s a changed…man?
 
-== Five
+== Eighty-Two
 
 Harry Vine is in space.
 
@@ -6950,7 +6937,7 @@ now, that’s 13 billion years. Imagine the phone bills.
 
 Compassion, please, for the Creatrix.
 
-'''
+== Eighty-Three
 
 The Mother of Hydrogen is kissing Harry Vine.
 
@@ -6980,7 +6967,7 @@ replaced with…the Kiss of the Star Goddess.
 
 Pucker up!
 
-'''
+== Eighty-Four
 
 I’m Harry Vine, and I don’t remember how I got here. I’m sooooo
 sleepy. I yawn and stretch. My body is so light! I’m
@@ -7125,7 +7112,7 @@ She’s as faithful to infinity as we are to multiplicity.
 
 And now we return you to your regularly scheduled program.
 
-'''
+== Eighty-Five
 
 Harry realizes what’s wrong. He stabbed Jake in the back and did not
 even pause for breath.
@@ -7223,7 +7210,7 @@ And now Peter can go home. Harry has gone all the way.
 He has forgiven the Goddess for making him, and for all her
 mistakes. It’s time.
 
-== Six
+== Eighty-Six
 // Peter’s Funeral Wedding
 
 Peter is old. He’s not really sure how old, because he sometimes lives
@@ -7289,7 +7276,7 @@ Funeral.
 
 Harry was now the King of the World, and Harry was alone.
 
-== Seven
+== Eighty-Seven
 // Miko & Peter’s Funeral
 
 The funeral is achingly simple. Peter and Miko persuaded the Gaskins, the family who
@@ -7402,7 +7389,7 @@ his own death at his wedding just to escape.
 
 He’s gone, and he’s never coming back.
 
-== Eight
+== Eighty-Eight
 // The King
 
 I see Peter walking up a dark gray gravel path at twilight. He’s twenty or
@@ -7545,7 +7532,7 @@ from anywhere and travel. But I’ve gotten to like Orlando. Something deeply
 pleasing about the rain in the afternoon, and coming from New York, the
 lizards are still magical.
 
-'''
+== Eighty-Nine
 
 Friday night. There’s a barbecue grill on the back porch. It smokes too
 much and produces a constant stream of shrimp, fish and grilled vegetables.
@@ -7645,7 +7632,7 @@ say to myself in the night-time movie theater.
 The next morning, the King of the World gets up and goes to work. He has a
 date.
 
-== Nine
+== Ninety
 // The Beach House
 
 Fort Lauderdale is a quiet, cheap place to live. It’s seen better days; during
@@ -7778,7 +7765,7 @@ none of us every really knew him.
 Next time I see PRIG, I’m going to ask him for his thoughts, though.
 We may never know, but we saw different sides of Peter. It’s worth asking.
 
-== Ten
+== Ninety-One
 // Space is the Place
 
 PRIG and AL are on opposite sides of a game of Go. AL’s showing PRIG his

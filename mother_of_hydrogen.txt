@@ -17,6 +17,9 @@
 //
 // Use moh.sty
 // a2x: --dblatex-opts --texstyle=moh
+//
+// Use moh.xsl dblatex XSL customizations
+// a2x: --dblatex-opts "--xsl-user=moh.xsl"
 //////////////////////////
 FIXME: Make a title page:
 

@@ -1,7 +1,26 @@
 // -*- adoc -*-
-// a2x: --doctype book
+Mother of Hydrogen
+==================
+:author: Vinay Gupta
+:doctype: book
+:lang: en
+// Use docinfo.xml
+:docinfo1:
+
+// Default class for a book is “report”!
+// a2x: --dblatex-opts "--param=latex.class.book=book"
 //
-// a2x: --dblatex-opts "--param=page.width=156mm --param=page.height=234mm --param=page.margin.top=23.4mm --param=page.margin.bottom=46.8mm --param=page.margin.inner=15.6mm --param=page.margin.outer=31.2mm"
+// Don’t start chapters on a right-hand page
+// a2x: --dblatex-opts "--param=latex.class.options=openany"
+//
+// a2x: --dblatex-opts "--param=page.width=156mm --param=page.height=234mm --param=page.margin.top=26mm --param=page.margin.bottom=26mm --param=page.margin.inner=17.333mm --param=page.margin.outer=34.667mm"
+//
+// Allow cover image to fill the page
+// (Default is “pagebound”, but dblatex uses \textheight and \textwidth)
+// a2x: --dblatex-opts "--param=imagedata.default.scale=maxwidth=156mm,maxheight=234mm"
+//
+// Don’t put dblatex logo on title page
+// a2x: --dblatex-opts "--param=doc.publisher.show=0"
 //
 // Don’t include revision history
 // a2x: --dblatex-opts "--param=latex.output.revhistory=0"
@@ -12,11 +31,18 @@
 // Make verse appear in normal font.
 // a2x: --dblatex-opts "--param=literal.class=normal"
 //
+// Color hyperlinks black (for printing).
+// a2x: --dblatex-opts "--param=latex.hyperparam=colorlinks,allcolors=black -d"
+//
 // Use moh.sty
 // a2x: --dblatex-opts --texstyle=moh
-//
-// FIXME: New title page, page headers & footers
-= Mother of Hydrogen
+// FIXME: ePub
+// FIXME: Back cover (image & blurb)
+// FIXME: Dust jacket (back cover + spine + front cover)
+// FIXME: Corrections from paper
+// FIXME: Foreword
+// FIXME: Blurbs
+// FIXME: Acknowledge me
 
 == Preface
 
@@ -24,16 +50,13 @@ I wrote the bulk of this novel in six days, November 22 through 27, 2012.
 NaNoWriMo became NaNoWriWk by accident.
 It is a hair over 60,000 words. I do not know how I did it. I used Emacs.
 
-I have published it under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license.
-// FIXME: give link to license, and reason for using the license.
-Much of my work is Public Domain, particularly the Hexayurt Project
-(yes, it is real; may work as described!).
-
 I’d like to thank, in no particular order, James Hester, Nathan Koren
 and Jay Springett for their help, friendship and assistance. Ásta
 Helgadóttir, who said something inspiring, Dougald Hine for wise
 council over many years, whether he knew it or not, and Bembo Davies
 for setting my feet on a Path With A Heart. My father, who appears as Dr.{nbsp}Goppti, had another name for the goddess Nuit: he called her Shakti.
+
+The Hexayurt Project is real! See http://hexayurt.com
 
 I’ve been a lifelong mystic, and I’m tired of hiding.
 
@@ -865,7 +888,7 @@ on. The two streams don’t rejoin until college. Soldiers and
 civilians.
 
 Gregory puts his arms around his wife’s waist from behind, as she
-hovers over the pot. She’s radiates tension.
+hovers over the pot. She radiates tension.
 
 “He’ll be OK, it’s just a camping trip.” “With guns, and flashlights,
 and teenage boys standing as sentries. It’s a military drill.” She’s a
@@ -2788,7 +2811,7 @@ Peter and Papa. For some reason my own father doesn’t inspire this,
 it’s different. Gibbons isn’t quite showing up as my father, it’s
 something more…a…King?
 
-Father of us all! El Papa, the Pope, something…numinous. Phrases
+Father of us all! El Papa, the Pope, something numinous. Phrases
 from the work, like Hierophant of Wisdom or The Emperor come to mind,
 but I can’t place it. He’s the Perfect One.
 
@@ -2898,7 +2921,7 @@ I’m waiting for the drugs to wear off, so I can think.
 
 == Twenty-Seven
 
-`[4:33{nbsp}a.m., Sunday, April 22, 2029. The White House.`]
+_4:33{nbsp}a.m., Sunday, April 22, 2029. The White House._
 
 I am the President of the United States of America. I am about to make
 the most important speech of my lifetime, and possibly the most
@@ -3830,7 +3853,7 @@ up some subtle thread, some clue, some line. I’m not that far out of
 whack here; other people…they may come to believe what’s not true,
 but they don’t become flesh eating zombies.
 
-Well…unless you’re on the other end of the gun. Then…we dine on
+Well…unless you’re on the other end of the gun. Then we dine on
 flesh, yes, indeed. And that’s the angle.
 
 The whole thing peels apart in my mind, I can feel the layers

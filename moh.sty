@@ -2,21 +2,21 @@
 
 \ProvidesPackage{moh}[2018/03/15 Mother of Hydrogen style]
 
+% Define front/main/back matter
+\def\frontmatter{\cleardoublepage\pagestyle{myheadings}\pagenumbering{roman}}
+\def\mainmatter{\cleardoublepage\pagestyle{myheadings}\pagenumbering{arabic}}
+\def\backmatter{\if@openright\cleardoublepage\else\clearpage\fi}
+
 % First paste in asciidoc-dblatex.sty’s body, as we can’t specify multiple --texstyle arguments to dblatex
 %% Just use the original package and pass the options.
 \RequirePackageWithOptions{docbook}
 
-% Sidebar is a boxed minipage that can contain verbatim.
-% Changed shadow box to double box.
-\renewenvironment{sidebar}[1][0.95\textwidth]{
-  \hspace{0mm}\newline%
-  \noindent\begin{Sbox}\begin{minipage}{#1}%
-  \setlength\parskip{\medskipamount}%
-}{
-  \end{minipage}\end{Sbox}\doublebox{\TheSbox}%
-}
-
 % Extra MoH bits
+\pagestyle{empty} % intial pagestyle
+\renewcommand{\headrulewidth}{0.pt}
+\renewcommand{\footrulewidth}{0pt}
+\renewcommand{\plainheadrulewidth}{0pt}
+\renewcommand{\plainfootrulewidth}{0pt}
 \usepackage{titlesec}
 \usepackage{tgbonum}
 \titleformat{\chapter}[block]{\filcenter\huge}{\filcenter}{20pt}{\Huge}
@@ -26,6 +26,83 @@
 {\hspace{-1.3em}}{\hspace{-1.3em}}%
 {\hfill \contentspage}[\addvspace{0pt}]
 
+% Help with tricky lines
+\setlength{\emergencystretch}{.06\textwidth}
+
+% Try to avoid excessive hyphens
+\doublehyphendemerits=30000
+\finalhyphendemerits=30000
+\adjdemerits=10000
+\brokenpenalty10000\relax
+
+% Avoid widows and orphans
+% https://mailman.ntg.nl/pipermail/ntg-context/2013/074250.html
+\widowpenalty 10000
+\clubpenalty 10000
+
 % Restore default paragraph spacing
 \setlength\parskip{0pt plus 1pt}
 \setlength\parindent{15pt}
+
+% Title
+% Redefine to avoid dblatex logo
+\def\maketitle{
+  \thispagestyle{empty}
+  \DBKcover
+  \ifx\DBKcopyright\relax\else
+    \begin{center}\DBKcopyright\end{center}%
+    \vspace{-7ex}% FIXME: spurious space after copyright
+  \fi%
+  \ifx\DBKlegalblock\relax\else
+    \DBKlegalblock
+  \fi
+  \newpage
+  \DBKdomitete
+}
+
+% Cover Page
+% Change the layout
+
+\def\DBKcover{
+% interligne double
+\setlength{\oldbaselineskip}{\baselineskip}
+\setlength{\baselineskip}{2\oldbaselineskip}
+\textrm{
+\vfill
+\begin{center}
+  \Huge{\DBKtitle}\\ %
+  \ifx\DBKsubtitle\relax\else%
+    \vspace{3em}%
+    \LARGE{\DBKsubtitle}\\ %
+  \fi
+  \vspace{6em}
+  \Huge{\DBKauthor}\\ %
+\end{center}
+\vfill\vfill\vfill
+\setlength{\baselineskip}{\oldbaselineskip}
+\hspace{1cm}
+\vspace{1cm}
+\begin{center}
+\large{\DBKpublishername}
+\end{center}
+}
+
+% Format for the other pages
+\newpage
+\pagestyle{empty}
+\setlength{\baselineskip}{\oldbaselineskip}
+\lfoot[]{}
+}
+
+% Legal notice
+\renewenvironment{DBKlegalnotice}{%
+    \ifx\DBKlegaltitle\relax\else%
+      \noindent\begin{center}\small\bfseries\DBKlegaltitle\end{center}%
+    \fi%
+    \begin{center}\parindent0pt\parskip3ex%
+}{
+  \end{center}\vspace{0.6em}\par
+}
+
+% No special font for URLs
+\urlstyle{same}

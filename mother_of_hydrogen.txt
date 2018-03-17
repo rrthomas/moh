@@ -29,15 +29,11 @@ I have published it under the Creative Commons Attribution-NonCommercial-ShareAl
 Much of my work is Public Domain, particularly the Hexayurt Project
 (yes, it is real; may work as described!).
 
-The setting is The Future, but also In People’s Heads. FIXME: There may be
-some confusion as to which is which, because we do not have the
-advantage of advanced typography.
-
 I’d like to thank, in no particular order, James Hester, Nathan Koren
 and Jay Springett for their help, friendship and assistance. Ásta
 Helgadóttir, who said something inspiring, Dougald Hine for wise
 council over many years, whether he knew it or not, and Bembo Davies
-for setting my feet on a Path With A Heart.
+for setting my feet on a Path With A Heart. My father, who appears as Dr.{nbsp}Goppti, had another name for the goddess Nuit: he called her Shakti.
 
 I’ve been a lifelong mystic, and I’m tired of hiding.
 
@@ -66,7 +62,7 @@ maintenance guy about the device in some detail one summer two years
 ago when it had gone down with a mechanical fault. Harry didn’t really
 understand how the monitor helped people—it was too small to stop
 anybody drowning—but the device was simple enough. Ever-watchful, if
-somebody was in trouble, it simply phoned appointed people in the
+somebody was in trouble, it simply called appointed people in the
 schloss to come and help. Harry did not think much about the
 similarity between the lake monitor and similar, less naturally-styled
 devices at school, rolling down the corridors picking up trash,
@@ -228,7 +224,7 @@ Peter’s sitting on a stump, checking messages.
 
 “Lunch?”
 
-“Yeah, let me phone the kid. Is Helen joining us?”
+“Yeah, let me remote the kid. Is Helen joining us?”
 
 Gregory thinks about how to broach the subject.
 
@@ -519,7 +515,7 @@ he’ll say if I open my mouth. “I trained you.”
 I’ve seen where this is going for a few years, Uncle Peter’s sense of
 failure turning into a desire to pass the torch. And he’s right—I’m
 smarter than he is, at least in book-smart terms, and I’m physically
-gifted. Not much facility for machines, I still lag too much when
+gifted. I don’t really connect in sim-space, I lag too much when
 driving a simulator to really compete with my friends, but I’m fast in
 the real. I could do great things.
 
@@ -537,7 +533,7 @@ eels in oceans. My mouth opens and I hear myself say:
 Peter goes limp, and father sits down heavily.
 
 Peter pauses for a moment, then rummages around in his pocket and
-brings out a phone. He shows my my own face.
+brings out a remote. He shows my my own face.
 
 I look like a god, there’s a radiance, a glow in my eyes, and a
 fire. I look charismatic, gifted, heaven-sent.
@@ -949,7 +945,7 @@ as they are. She loves them.
 
 World without end. The moment passes. Petra
 excuses herself, gets the slate and together they start on a new
-picture, this time more musical, birds arranged on telephone wires,
+picture, this time more musical, birds arranged on comms wires,
 like a score. Helen starts to clear the table, and mentally starts to
 plan tomorrow.
 
@@ -1209,7 +1205,7 @@ it down to one channel. Just here. Just me.
 one?” I say awkwardly trying to break the ice. Not good.
 
 I’m suddenly aware of the difference in our ages. She was old for her
-class, joined a cohort below her, joined the cadets early and is very
+class, a cohort below her age; joined the cadets late, and is very
 nearly eighteen. I turned sixteen less than a month ago. I don’t feel like a
 child, but this is all very new.
 
@@ -1335,7 +1331,7 @@ I’m wise enough not to mar the minute by making a clever joke. Not a
 child!
 
 Different levels of reality seem to be quite happily zooming along,
-almost independent. Not much of a sense of funny stuff going on, although
+almost independent. Not much of a sense of magic stuff going on, although
 it must be. There’s a wondering, an elongated moment. Will we do this
 again? I’m lost in my head again, for a moment it’s all about
 logistics, two hundred miles is a long way, and then there’s a moment of fear:
@@ -1396,7 +1392,8 @@ and muscles and will hardening and filling out, like a dragonfly’s
 wings filling with strength when it emerges. I think of Papa, or my
 own parents when they were my age (not that they met this young!) and
 it all fits together into a wheel. Boy meets girl, boy gets girl, girl
-(not this one, she’s safe!) is with child, repeat for forty million
+// “seven million years”: hominins
+(not this one, she’s safe!) is with child, repeat for seven million
 years and counting, every single one of us under snowfall or rain or
 the beating desert sun, counting the provisions and the shelter and
 the water and estimating the day. In these clothes, with this woman
@@ -2512,7 +2509,7 @@ was still a child. He never needed to show me again.
 
 Next comes the alternate nostril breathing. Forty-five minutes. Close right
 nostril with thumb, inhale left. Close both nostrils. Open right
-nostril with thumb. Exhale left. Repeat on the right side. Repeat for
+nostril with thumb. Exhale right. Repeat on the right side. Repeat for
 most of an hour, balancing energies I’m not even sure I feel. Shut up
 and focus. One way or the other, it’s something to do while the mind
 unwinds into quieter states of being. That, too, goes far faster in
@@ -3147,7 +3144,7 @@ authority to persuade the British Ambassador to give him access to a
 secure communications terminal. The British Ambassador, a retired
 naval doctor called Brian, is an old friend. His curiosity and fear
 burn. But if the President of the United States of America has to make
-a private phone call, private even from his own people. well…These
+a private call, private even from his own people. well…These
 are complicated times. Something important, and…The Crown will, of
 course, automatically know what is said using the device…So Brian
 brought the box, and handed it to the President with the grave care
@@ -3182,7 +3179,7 @@ extensive network of communication satellites and terrestrial
 relays. Half of the functions on the box are irrelevant to this call,
 more than half of them. It’s a few years behind our model, he notes.
 
-It’s what you give Ambassadors to phone home if the shit hits the fan,
+It’s what you give Ambassadors to call home if the shit hits the fan,
 and fortunately, it permits calls to places other than home too. It is
 plausible that the call will be decrypted later, but the President has
 every reason to believe that it is secure enough for a short call. And
@@ -3962,7 +3959,7 @@ introject.
 I’m holding a chunk of John Gibbon’s substance in my mind, not him as
 the individual, but him as the vehicle for the National Will, our
 group mind. He’s the Vicar of Jefferson, the Priest of the New
-Manifest Destiny Church of the Interim Ruling. He’s plugging directly
+Manifest Destiny Church of the State of Emergency. He’s plugging directly
 into the old Christian wiring, where everything flowed uphill to the
 Pope, and then to Christ, and then to God, that old murderous sky
 bastard wreaking his wrath and vengeance on the innocent and the
@@ -4125,7 +4122,7 @@ looking forwards to seeing more of my new peers and our new way of
 life. I make a mental note to call Emma, and then call home as I walk
 across the base to the mess hall.
 
-Mom answers the phone. I feel the Puppet’s mouth open, then push it
+Mom answers the remote. I feel the Puppet’s mouth open, then push it
 out the way and say “Hey…I’m still here.” She laughs. I say “no,
 seriously, I absolutely understand how I’m supposed to feel, the warm
 patriotic glow and all that, but I’m still your son, and I’m not going
@@ -5207,7 +5204,7 @@ it’s all turned out.
 We arrive. The rickshaws pull in, one after the other, to another
 metal gantry. We disembark, waiting a few minutes for the last of the
 rickshaws to arrive at the station, and walk a couple hundred
-meters to our compound, glued to our phones so as not to
+meters to our compound, glued to our remotes so as not to
 get lost in the maze. People’s huts open directly on to the path
 we’re walking down, dusty in the sun, and they stare as we walk
 past, not with curiosity, but with a sort of reserved
@@ -5225,8 +5222,8 @@ over the fence, popping each unit open as it goes, and positions them
 on hexagonal bases screwed into the mud with big silver flanges on
 each point, leveled roughly by eye by a team with manual crank
 handles for the ground screws. Simple, modular, mass-produced. It’s a
-Fordist (Henry Sr., not Hank the Deuce) revolution in housing, with a predictable
-result: insanity.
+Fordist (Henry Sr., not Hank the Deuce) revolution in housing, with only
+one result I can imagine: insanity.
 
 It takes the van with the bags another half hour to turn up. The
 roads, few as they are, are exactly as congested as roads are anywhere
@@ -5314,12 +5311,13 @@ neighbors. Everybody has a remote, a bank account, a population
 profile. Systems match buyers and sellers of not just goods but
 services, so it’s hard to remain idle if you have even one skill, like
 braiding hair, never mind the people who were lawyers, doctors,
-teachers in their previous lives, and are again. The bigger domes we
+teachers in their previous lives, and are again, if they’ve not reinvented
+themselves. The bigger domes we
 see dotted around are not private spaces, but community buildings,
 built using the same panels as the ordinary housing stock—a single
 system for everything here. The math is taught inside the
 domes constructed using it: convex tiling, rather than Fuller’s
-spherical trigonometry. They still teach using the Harriss Manuals.
+spherical trigonometry. They still teach using the Harriss manuals.
 
 On paper, it all works. But these are the political elites, those
 elected to make decisions on behalf of the collective. They’re the
@@ -5727,7 +5725,7 @@ Sally drags her back inside the hut. “Who the hell do we even call
 about this, Harry? Local security? State? The embassy?”
 
 Sot is in little of danger of bleeding out. Deep as it is, it’s a
-flesh wound. Harry is not sure what to do. He turns towards him. “Sot, get your phone out. Call an ambulance, mate. We’re going to call security and leave.”
+flesh wound. Harry is not sure what to do. He turns towards him. “Sot, get your remote out. Call an ambulance, mate. We’re going to call security and leave.”
 
 Behind Harry, there is an enormous bang, and Sally screams in
 anger. A masked man wearing absurd banana-yellow tights is lying at
@@ -5833,25 +5831,21 @@ that looks useful. Cameras, batteries, some small drones still in
 their wrapping, binoculars, some food, first aid kit. He’ll
 call home once they’re inside the container.
 
-He walks across the compound, and sees a youth, no more than fourteen or fifteen,
-on lookout, swinging a machete idly, scraping the point across the
+He walks across the compound, and sees a youth, no more than fourteen or fifteen, swinging a machete idly, scraping the point across the
 ground, just outside of the gate.
 
 “We are fucked,” he mutters under his breath.
 
 He goes to one of the hexayurts and wakes a teacher who’s doing
-translation work for the project. “Yes?” he says sleepily. John
-outlines the situation, and the teacher starts waking people up. In
-about five minutes, the leaders decide they’re going to flee into the
-city, hope to escape detection, and ride it out. They stick out a lot
-less than the Americans.
+translation work for the project. “Yes?” she asks sleepily. John
+outlines the situation. For a moment the teacher looks very angry, then
+she shrugs and starts waking people up. With barely a glance at the idiot
+Americans who’ve once again screwed them over, the staff
+grab a few belongings or a bag here and there, and flee into the night.
 
-Peter and Sally call. ETA 120 seconds. John takes aim at the boy,
-nudges a couple of feet to the left, and fires. The round sinks into
+Peter and Sally call. ETA 120 seconds. John goes back to the gate,
+and fires a warning shot. The round sinks into
 the timber of the gate house, and the kid scrams.
-
-He goes to the gate house and opens the gate. The staff grab a few belongings or a bag here and there, and flee into the night.
-It might work, if they aren’t followed.
 
 Harry Vine and Sally Yevish come running down the street, through the
 gate, and John locks it behind them. They run over to the container.
@@ -5912,7 +5906,7 @@ but right now I don’t care.
 Thomas is goggled up, flying a node around to see what
 they’re up against.
 
-By now there’s another sentry at the gate, and they can hear an
+By now there’s another scout at the gate, and they can hear an
 engine revving in the distance, menacing.
 
 “We’d better get inside,” says John. They shoot to scare the new the sentries off and buy some time, and once they’re gone,
@@ -6102,7 +6096,7 @@ and six pilots, so they’ll absolutely, definitely have the
 manpower. They start drilling, getting back in the swing of
 things. Not all of them are flying every day like Greg.
 
-Phil pulls some strings, tries to get action from contacts in the
+His ol’ buddy Phil pulls some strings, tries to get action from contacts in the
 service. Dead end. “I’m sorry. I’m sure Colonel Gibbons had his
 reasons. But as you know, Phil, the State Department can do what it
 damn well pleases in Africa, outside of the official war zones.” Well,
@@ -6111,7 +6105,7 @@ that at least gives them tacit approval.
 Gregory thinks about Kisangani. There’s hardware he can fly down
 there.
 
-Two more phone calls—Phil pushes his luck. “So you do have an asset
+Two more calls—Phil pushes his luck. “So you do have an asset
 down there, four BR15s on a helicopter, and you just need targeting?
 No US personnel on the ground in the area, well…in that case…let
 me, err, see what I can do about this unfortunate situation. You are
@@ -6688,8 +6682,8 @@ the program. I’m looking at the future of the human race, at least the
 dumb-smart experimental bits of them, and I’m here on Peter’s
 business. I’m family, and as I’ve learned, being Peter’s Family is a
 heavy, heavy trip to most of these people. Peter is, depending on who
-you ask, the Secret Chief of the Illuminati, or the King of America,
-or possibly the Black Pope, although given his teachings on all forms
+you ask, the King of America, or possibly the Black Pope, or even the
+Secret Chief of the Illuminati, although given his teachings on all forms
 of religion, that’s unlikely to my mind. As unlikely as the rumor
 that he’s getting married. To an older woman.
 
@@ -6931,9 +6925,8 @@ This has all gotten a little complicated.
 Harry is about to meet God, and the Human Race is about to have its
 Second Meeting on Mount Sinai, to go with its Second Holocaust.
 
-Let’s try and get it right this time. You wouldn’t believe God’s phone
-bills. It’s a long distance call! From the start of the universe to
-now, that’s 13 billion years. Imagine the phone bills.
+Let’s try and get it right this time. You wouldn’t believe God’s net
+bills. It’s an out-of-galaxy link!
 
 Compassion, please, for the Creatrix.
 
@@ -6959,6 +6952,10 @@ he’s gradually coming to. He was slipped the LSD, right under his tongue,
 about four-and-a-half hours after PRIG dart gunned him and cleaned
 out his gastrointestinal tract so he won’t die out there. So by now,
 Harry is Tripping Balls, and not in the sense of the comparatively
+// FIXME: point out that Peter is wrong: he was paranoid about the State,
+// and thought there was some sort of MK-ULTRA program, but in fact
+// they’re just being put in a context where atavistic reactions kick in.
+// Actually it’s the hippies who are doing the brainwashing!
 mild stimulant that he was fed all those years ago, and told, by
 Peter, he was being fed an incredibly powerful brainwashing drug. Now
 he’s on the real thing, and the psychedelic placebo effect that
@@ -7201,10 +7198,6 @@ Nuit. There’s just Space, and Time.
 
 And that’s the Universe.
 
-// FIXME: Remove to Colophon?
-// Dr.{nbsp}Goppti, on whom this work was based, called her Shakti. He was my
-// father.
-
 And now Peter can go home. Harry has gone all the way.
 
 He has forgiven the Goddess for making him, and for all her
@@ -7288,7 +7281,7 @@ not in the center. Miko’s students, all women, pull the bodies in a cart decor
 flowers to an enormous hole in the ground, surrounded by four mounds of
 dirt. Dozens of shovels are stuck in the mounts of dirt, like sticks of incense.
 
-The nine tiny women pick up the two bodies, eight taking a limb each, and one
+The nine tiny women pick up the two bodies, eight taking a limb each, and one, Naginata,
 leading the way. They stand on opposite sides of the rectangular hole, and
 then with no ceremony at all, forcefully dump the tangled bodies into the
 hole. The silence is broken by hundreds of gasps and moans and cries at the
@@ -7414,9 +7407,9 @@ purview if Peter had been concealing a project of that magnitude, and says
 there was nothing.
 
 And is there any difference between Peter dead and Peter on a beach
-somewhere pretending to be somebody else? To us, he’s gone, and…given
-his belief system, if he wanted the beach, he’d have gone there to be young
-and strong, not to retire. He’s free. I stretch out in bed and
+somewhere pretending to be somebody else? To us, he’s gone, and if he’d
+wanted the beach, he’d have gone there to live another life, not to retire.
+He’s free. I stretch out in bed and
 check the time. Pretty soon I am going to work. I toss the duvet to one
 side and sit up. The harsh Florida sun peeks through the blinds. I stand
 and open them a crack, look out over the pool and parking lot. I’ve woken
@@ -7503,8 +7496,8 @@ meditation, some questions about Harappa from a college student, somebody
 looking for an expert on lunar logistics, relationship advice…Pastoral
 care and future engineering in a bundle. They didn’t quite hand me
 Peter’s in-tray, and I’ve only got a tenth of the time he did for the
-network, but it’s ongoing. Nagita turns out to be a lot more active and
-westernized than her previous identity’s formalism had suggested. She,
+network, but it’s ongoing. Naginata turns out to be a lot more active and
+westernized than her formal bearing at the funeral had suggested. She,
 Laurie and Petra have become firm friends and between them are balancing a
 lot of the oddies left in Peter’s network. Annie’s not so well, she took
 his death hard; but time slowly passes. We’ve agreed not to mark the
@@ -7698,8 +7691,8 @@ Half a kilometer down the beach, there are umbrellas around a notoriously
 fake Tiki bar. We finish our beers before we get there, and take our usual
 stools.
 
-Eddie and Edie are behind the bar as usual, cooking salt fish. He’s
-Nigerian, she’s Sudanese, but they’re both Islanders. They opened this
+Eddie and Edie are behind the bar as usual, cooking salt fish. His family’s
+originally Nigerian, hers Sudanese, by way of the Caribbean. They opened this
 place a few years ago, and they’ve become our friends.
 
 “Go on, then!”
@@ -7857,4 +7850,4 @@ other, I’ll see you in the stars.”
 // ispell-local-dictionary: "american"
 // End:
 
-//  LocalWords:  adoc FIXME dblatex a2x texstyle moh txt american œuvre
+//  LocalWords:  adoc FIXME dblatex a2x texstyle moh txt american

@@ -3787,8 +3787,8 @@ right time in the right measure.
 
 Bliss is how Peter reacts to the uncontrollable unknown. That’s what
 makes him a hippie, nearly a hundred years after the term was
-invented. Peter secretly hopes he’ll live until the 2060s, and he can
-be a Child of the ’60s once again. He thinks about going to Gaskin’s
+invented. Peter is secretly looking forward to the 2060s, when he can
+be a Child of the ’60s once again. He thinks about the time he went to Gaskin’s
 Farm, now a thriving little Amish village, twenty years ago, and kissing
 the sacred ground where St.{nbsp}Steven’s people lived and worked, setting
 fires that burn strong to this day, if you know where to look for the
@@ -4948,7 +4948,7 @@ Only thing I haven’t done is had kids.
 
 == Forty-Seven
 
-Spring, 2066. Kinshasa’s been through boom and bust so many times I’m amazed it’s
+Spring, 2067. Kinshasa’s been through boom and bust so many times I’m amazed it’s
 still in one piece.
 
 Our office is on the 47th floor of the one real skyscraper, a
@@ -5375,7 +5375,7 @@ to check the water filter is correctly functioning or it simply stops
 delivering water until checked—and the city’s internet is
 bizarre. It’s a 4.8-million-node mesh with a replicated copy of almost
 every human-readable data resource on the planet. Most of the time
-they don’t touch the real grid. It’s 2066, but in many ways they’re
+they don’t touch the real grid. It’s 2067, but in many ways they’re
 living in a tribal past.
 
 I’ve gotten side-tracked studying war veterans, the actual
@@ -6902,6 +6902,8 @@ before, at least, not real psychedelics.
 It’s wild!
 
 == Eighty-One
+
+_May 10, 2068._
 
 (takes an infinity)
 

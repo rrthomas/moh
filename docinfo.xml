@@ -1,10 +1,9 @@
 <subtitle>The Future We Deserve</subtitle>
 <publishername>Hexayurt Press</publishername>
 <mediaobject role="cover"><imageobject><imagedata fileref="Cover.jpg"></imagedata></imageobject></mediaobject>
-<!-- FIXME: insert author name automatically -->
 <legalnotice>
 <simpara>
-  Vinay Gupta has asserted his right under the Copyright, Designs and Patents Act, 1988, to be identified as the author of this work.
+  {author} has asserted his right under the Copyright, Designs and Patents Act, 1988, to be identified as the author of this work.
 </simpara>
 <simpara>
   This book is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license. For more information, see <ulink url="https://creativecommons.org"/>
@@ -16,4 +15,4 @@ The cover images are from NASA.
   Book design by Reuben Thomas rrt@sc3d.org
 </simpara>
 </legalnotice>
-<copyright><year>2012</year><year>2018</year><holder>Vinay Gupta</holder></copyright>
+<copyright><year>2012</year><year>2018</year><holder>{author}</holder></copyright>

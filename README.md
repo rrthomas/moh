@@ -5,7 +5,7 @@
 
 For the full text of the license, see the file [LICENSE](LICENSE).
 
-This is Vinay Gupta’s novella of the near future.
+This is Vinay Gupta’s novel of the near future.
 
 
 # Building

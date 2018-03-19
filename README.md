@@ -10,7 +10,7 @@ This is Vinay Gupta’s novel of the near future.
 
 # Building
 
-You will need `asciidoc`, `dblatex` and a LaTeX system such as TeXLive.
+You will need `asciidoc`, `dblatex` and a LaTeX system such as TeXLive, and if you’re using asciidoc 8.6.9 or earlier, copy the file `asciidoc-dblatex.xsl` over its copy, typically in `/etc/asciidoc/dblatex`.
 
 To build a PDF, use the following command:
 

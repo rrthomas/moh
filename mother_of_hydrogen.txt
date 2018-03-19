@@ -28,7 +28,7 @@ Mother of Hydrogen
 // Don’t include ToC
 // a2x: --dblatex-opts "--param=doc.toc.show=0"
 //
-// Make verse appear in normal font.
+// Make verse appear in normal font (workaround for dblatex bug and asciidoc workaround for it; see https://github.com/asciidoc/asciidoc/pull/126)
 // a2x: --dblatex-opts "--param=literal.class=normal"
 //
 // Color hyperlinks black (for printing).

@@ -17,3 +17,9 @@ To build a PDF, use the following command:
 ```
 a2x mother_of_hydrogen.txt
 ```
+
+To build an EPUB, use:
+
+```
+a2x -f epub mother_of_hydrogen.txt
+```

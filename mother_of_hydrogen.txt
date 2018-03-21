@@ -16,6 +16,16 @@ Mother of Hydrogen
 // Don’t start chapters on a right-hand page
 // a2x: --dblatex-opts "--param=latex.class.options=openany"
 //
+// Don’t number anything in dblatex
+// a2x: --dblatex-opts "--param=doc.section.depth=-1"
+//
+// Suppress book part, chapter and section numbering in DocBook XSL outputs
+// a2x: --xsltproc-opts
+// a2x: "--stringparam part.autolabel 0
+// a2x: --stringparam chapter.autolabel 0
+// a2x: --stringparam section.autolabel.max.depth 0"
+//
+// Set paper size to Royal Octavo, and appropriate margins
 // a2x: --dblatex-opts "--param=page.width=156mm --param=page.height=234mm --param=page.margin.top=26mm --param=page.margin.bottom=26mm --param=page.margin.inner=17.333mm --param=page.margin.outer=34.667mm"
 //
 // Allow cover image to fill the page
@@ -80,6 +90,7 @@ The Hexayurt Project is real! See http://hexayurt.com
 I’ve been a lifelong mystic, and I’m tired of hiding. I tell you true: please stop hurting each other, it’s breaking my heart.
 
 // FIXME: Right align
+// FIXME: No space at start of next line in EPUB
 {nbsp} +
 _Vinay Gupta @leashless London, April 2018_
 

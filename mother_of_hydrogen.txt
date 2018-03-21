@@ -45,11 +45,23 @@ Mother of Hydrogen
 // FIXME: Foreword
 // FIXME: Blurbs
 // FIXME: Acknowledge me
-// FIXME: Epigraph: “The future is, in all things, our friend…The future is both hope and fruition…The future is the Bible of the free”—Herman Melville “White-Jacket”
 // FIXME: Biog & photo of Vinay for dust jacket
 // FIXME: Check arc of blind faith in Peter→seeing more & more through him
 // FIXME: Re-proof
 
+
+++++
+<epigraph>
+<simpara>
+<emphasis>The future is, in all things, our friend…<?asciidoc-br?>The future is both hope and fruition…<?asciidoc-br?>The future is the Bible of the free.</emphasis><?asciidoc-br?><?asciidoc-br?>—Herman Melville, <emphasis>White-Jacket</emphasis>
+</simpara>
+</epigraph>
+++++
+
+// Force a page break so Preface starts on a right-hand page
+// See also redefinition of \part in moh.sty
+// (adding an <?asciidoc-pagebreak?> here does not work, just changes the spacing on the previous page)
+= {nbsp}
 == Preface
 
 I wrote the bulk of _Mother of Hydrogen_, 60,000 words, in six days, November 22 through 27, 2012: NaNoWriMo became NaNoWriWk by accident.

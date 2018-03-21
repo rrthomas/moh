@@ -7,6 +7,9 @@ Mother of Hydrogen
 // Use docinfo.xml
 :docinfo1:
 
+// Use XeTeX, for punctuation line break rules
+// a2x: --dblatex-opts "--backend=xetex"
+//
 // Default class for a book is “report”!
 // a2x: --dblatex-opts "--param=latex.class.book=book"
 //
@@ -44,7 +47,6 @@ Mother of Hydrogen
 // FIXME: Acknowledge me
 // FIXME: Epigraph: “The future is, in all things, our friend…The future is both hope and fruition…The future is the Bible of the free”—Herman Melville “White-Jacket”
 // FIXME: Biog & photo of Vinay for dust jacket
-// FIXME: Copy em-dash line break rules from HPMOR
 // FIXME: Check arc of blind faith in Peter→seeing more & more through him
 // FIXME: Re-proof
 

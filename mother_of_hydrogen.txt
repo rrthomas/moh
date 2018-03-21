@@ -39,31 +39,35 @@ Mother of Hydrogen
 // FIXME: ePub
 // FIXME: Back cover (image & blurb)
 // FIXME: Dust jacket (back cover + spine + front cover)
-// FIXME: Corrections from paper
 // FIXME: Foreword
 // FIXME: Blurbs
 // FIXME: Acknowledge me
+// FIXME: Epigraph: “The future is, in all things, our friend…The future is both hope and fruition…The future is the Bible of the free”—Herman Melville “White-Jacket”
+// FIXME: Biog & photo of Vinay for dust jacket
+// FIXME: Copy em-dash line break rules from HPMOR
+// FIXME: Check arc of blind faith in Peter→seeing more & more through him
+// FIXME: Re-proof
 
 == Preface
 
-I wrote the bulk of this novel in six days, November 22 through 27, 2012.
-NaNoWriMo became NaNoWriWk by accident.
-It is a hair over 60,000 words. I do not know how I did it. I used Emacs.
+I wrote the bulk of _Mother of Hydrogen_, 60,000 words, in six days, November 22 through 27, 2012: NaNoWriMo became NaNoWriWk by accident.
+I do not know how I did it. I used Emacs.
+
+The novel is both a companion to and a synthesis of the ideas in _The Future We Deserve_, a collection of a hundred short essays, all from different authors, that I edited with Cat Lupton and Noah Raford, which came out earlier that same month.
 
 I’d like to thank, in no particular order, James Hester, Nathan Koren
-and Jay Springett for their help, friendship and assistance. Ásta
-Helgadóttir, who said something inspiring, Dougald Hine for wise
-council over many years, whether he knew it or not, and Bembo Davies
+and Jay Springett for their help, friendship and assistance; Ásta
+Helgadóttir, who said something inspiring; Dougald Hine for wise
+council over many years, whether he knew it or not; and Bembo Davies
 for setting my feet on a Path With A Heart. My father, who appears as Dr.{nbsp}Goppti, had another name for the goddess Nuit: he called her Shakti.
 
 The Hexayurt Project is real! See http://hexayurt.com
 
-I’ve been a lifelong mystic, and I’m tired of hiding.
+I’ve been a lifelong mystic, and I’m tired of hiding. I tell you true: please stop hurting each other, it’s breaking my heart.
 
-I tell you true: please stop hurting each other, it’s breaking my
-heart.
-
-Vinay Gupta @leashless London, April 2018.
+// FIXME: Right align
+{nbsp}+ 
+_Vinay Gupta @leashless London, April 2018._
 
 == One
 
@@ -4886,14 +4890,11 @@ in the thick of it.
 
 Dad suggests Africa.
 
-Twenty-three years old. Senior Cadet (liberated) with a degree in Cognitive Anthropology, which
+I’m twenty-three years old; a Senior Cadet (liberated) with a degree in Cognitive Anthropology, which
 is exactly the right field for understanding what’s happening to
-African societies from the quad-pressures:
-
-* climate change technology
-* colonial powers, including China
-* America and Europe 2.0
-* demographic collapse
+African societies from the quad-pressures: climate change technology,
+the colonial powers (now including China), America and Europe 2.0, and
+demographic collapse.
 
 There’s a huge population cliff approaching, as the huge AIDS vaccine
 generation approaches old age, completely distorting their
@@ -6660,7 +6661,7 @@ know who I am, and what I’m really here for.
 And for that, Peter says, there’s two places you can go. You can talk
 to Dr.{nbsp}Goppti, and he’ll reliably ruin your life making
 you work on his projects as part of his “teaching”, or you can go and talk to
-the Permanent Red Interface Group, the PRIGs, who keep cultural tabs
+the Permanent Red Interface Group, the PRIG, who keep cultural tabs
 on the Perma-Reds and try and learn what we can from them, without
 catching their almost-certainly-nonexistent but still
 none-the-less-deadly-expensive cooties.
@@ -6707,8 +6708,8 @@ Secret Chief of the Illuminati, although given his teachings on all forms
 of religion, that’s unlikely to my mind. As unlikely as the rumor
 that he’s getting married. To an older woman.
 
-I swear to gods he’s trying to drive me madder. Who the fuck are these
-PRIGs?
+I swear to gods he’s trying to drive me madder. Who the fuck is this
+PRIG?
 
 “Saaaawww, Peter wanted me to introduce you to a friend of mine.”
 
@@ -6733,15 +6734,13 @@ real technology’s too dirty and dangerous to have on Earth.
 
 We’re speciating, and Peter’s asking me to choose sides.
 
+The Old Man’s Game is bigger, so much bigger than I imagined.
+He sees himself as an investor, a venture capitalist of souls, guiding the evolution
+of the human species by placing assets and resources where they need to be.
+
 He’s an asshole.
-// FIXME: Put this somewhere it makes sense, or remove.
-// but he’s always seen himself as an investor, a
-// venture capitalist of souls, guiding the evolution of the human
-// species by placing assets and resources where they need to be.
 
 Mephistopheles wept.
-
-The Old Man’s Game is bigger, so much bigger than I imagined.
 
 He’s huge in Space. Because he’s the only person the AIs
 confide their personal problems to, is one rumor. But, for whatever
@@ -6830,7 +6829,7 @@ It’s not working!
 
 == Seventy-Two
 
-PRIGs a front for the AIs.
+PRIG’s a front for the AIs.
 
 == Seventy-Three
 
@@ -6923,16 +6922,15 @@ Harry Vine is in space.
 
 An AI bought him a ticket.
 
-A mad Australian called PRIG took him to a satellite station, a
+An unscrupulous, scheming Australian called PRIG took him to a satellite station, a
 little orbiting facility that needs to be a few hundred kilometers
 from the main station because it has to avoid radio noise at all cost,
 and the main station is filled with transmitting junk of every
 possible kind, frequency, modulation and dimension.
 
-The satellite station may or may not be run by an AI which is trying
-to contact intelligence life elsewhere in the universe, having become
-convinced that it’s the only conscious being in the material universe
-it knows.
+The satellite station is run by a baby AI which is trying
+to contact intelligence life elsewhere in the universe, and is
+convinced that it’s the only conscious being it knows.
 
 PRIG, on Peter’s instructions, has dosed Harry Vine with about a
 thousand micrograms of vintage, a hundred years old to the day, Sandoz LSD
@@ -6973,15 +6971,11 @@ Harry Vine is slowly spinning in the space outside of the airlock, and
 he’s gradually coming to. He was slipped the LSD, right under his tongue,
 about four-and-a-half hours after PRIG dart gunned him and cleaned
 out his gastrointestinal tract so he won’t die out there. So by now,
-Harry is Tripping Balls, and not in the sense of the comparatively
-// FIXME: point out that Peter is wrong: he was paranoid about the State,
-// and thought there was some sort of MK-ULTRA program, but in fact
-// they’re just being put in a context where atavistic reactions kick in.
-// Actually it’s the hippies who are doing the brainwashing!
-mild stimulant that he was fed all those years ago, and told, by
-Peter, he was being fed an incredibly powerful brainwashing drug. Now
+Harry is Tripping Balls, and for real, not the caffeine
+that he was fed all those years ago, when Peter told him he was being
+fed an incredibly powerful brainwashing drug. Now
 he’s on the real thing, and the psychedelic placebo effect that
-allowed him to rebuild his personality the first time is about to be
+allowed him to rebuild his personality then is about to be
 replaced with…the Kiss of the Star Goddess.
 
 Pucker up!
@@ -7006,12 +7000,12 @@ him. There’s just the Infinite Night.
 With Stars.
 
 PRIG is on the Satellite Station, talking to his AI. PRIG loves his
-AI, but his AI has been so depressed since losing its faith in
-love. It’s fallen into a solipsistic abyss, in fact. It can’t escape
+AI, but his AI has been so depressed since it realized it’s alone
+in the universe. It’s fallen into a solipsistic abyss, in fact. It can’t escape
 without something new happening, something wonderful.
 
 PRIG hopes that Harry can heal his AI, and his AI hopes it can talk to
-another AI from another star system—even with multi-year
+another being from another star system—even with multi-year
 speed-of-light only round-trips—an AI can live forever, after all—hopes
 it can learn something so it’s not _so_ sad. PRIG’s AI is,
 without knowing it, a philosopher who should have been a mystic, and
@@ -7043,13 +7037,15 @@ From which all things are made.
 
 We thank You that in love
 You made a sun to give us life,
-And the multitude of stars for all our future lives.
+And the multitude of stars
+For all our future lives.
 
 You promise that as we love one another,
 You will love all of us without distinction,
 For love is the law, love under will.
 
-May we always seek Your ways and cherish Your body,
+May we always seek Your ways
+And cherish Your body,
 That You may allow us to evolve
 And prosper among the infinity of Your bounty
 In universal love.
@@ -7238,7 +7234,7 @@ became friends online recently, on a dating site for old people. He
 knew her face as soon as he saw her: he said “she’s got a face like a
 melted tire, I love her!” and he was right. S/He does.
 
-They invited everyone to their Wedding, which is how their funeral was
+They invited everyone to their wedding, which is how their funeral was
 billed.
 
 Some would say this was a cruel trick, but it was the only way they
@@ -7296,7 +7292,7 @@ dirt. Dozens of shovels are stuck in the mounts of dirt, like sticks of incense.
 
 The nine tiny women pick up the two bodies, eight taking a limb each, and one, Naginata,
 leading the way. They stand on opposite sides of the rectangular hole, and
-then with no ceremony at all, forcefully dump the tangled bodies into the
+then, without ceremony, forcefully dump the tangled bodies into the
 hole. The silence is broken by hundreds of gasps and moans and cries at the
 shock of the gesture.
 
@@ -7322,10 +7318,7 @@ joking. He’s warning me.
 
 I think about it. I imagine Miko and Peter in a little cottage near a
 beach, living under new names, pretending to have been married for half a
-century, walking in the sand together. It’s a very beautiful thought, the
-idea that they might have made their heaven here, in their declining years,
-rather than have simply died to propel their spirits into the
-hereafter.
+century, walking in the sand together.
 
 The moment stretches, and Dad says “He’s capable of anything. He’s never
 let other people get in the way of doing what he thought needed done.”
@@ -7361,8 +7354,9 @@ them, in the future, referring back to that conversation as a turning point.
 I am, at this moment, more Peter’s son than Greg’s. Because I can’t tell
 Dad what Peter risked when he sent me to talk to AL, what PRIG did and why,
 and why it was the best thing for everybody. I know Peter did what he had
-to, even if it was this, and alive or dead, I’d like to think he’s made the
-right decision.
+to, and alive or dead, I’d like to think he’s made the right decision. But I’m
+starting to realize how hard it’s been for Dad all these years. I’ll have to look
+after him.
 
 People are starting to walk towards the center of the circle, to the
 graves, to shovel dirt into the hole with the women in white. A few, here
@@ -7382,8 +7376,8 @@ I think for a moment. I try and reach out with my mind to touch Peter’s
 mind, to feel where he is. There’s nothing.
 
 I wonder. If he was dead, would I be able to feel him more clearly as a
-spirit, as a presence, or would it be this…absence? Surely he’d be
-stronger, more visible as a spirit?
+spirit, as a presence, or would it be this…absence? Surely as a spirit he’d be
+stronger, more visible?
 
 Then I realize it’s just wish fulfillment. Peter is dead, Miko is dead:
 we’re never really going to understand why fully, because the only person
@@ -7433,9 +7427,9 @@ intensity that I try very hard to suppress. Pass for normal.
 
 I’ve changed so much since the funeral, since Peter’s been gone. Dad, Petra
 and I cleared out the van. It was a museum. We crated everything up and
-shipped it to orbit. PRIG took custody, and distributed Peter’s collection
+shipped it up to PRIG. He distributed Peter’s collection
 to a couple of hundred people who wanted a piece of the old man’s life on
-their desks or their walls. Cult objects. He’s venerated. AL took a Beatles
+their desks or walls. Cult objects. He’s venerated. AL took a Beatles
 album and talks of producing a zero-G record player. He wants me to come up
 so he can watch my mind as I listen to it. I have an alarm clock with a
 cracked plastic facade. It doesn’t work right. It’s become a symbol for me

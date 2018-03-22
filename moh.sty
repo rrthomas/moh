@@ -4,7 +4,7 @@
 
 % Define front/main/back matter
 \def\frontmatter{\cleardoublepage\pagestyle{myheadings}\pagenumbering{roman}}
-\def\mainmatter{\cleardoublepage\pagestyle{myheadings}\pagenumbering{arabic}}
+\def\mainmatter{\cleardoublepage\pagestyle{myheadings}\pagenumbering{arabic}\@openrightfalse} % Main matter chapters can start on left-hand pages
 \def\backmatter{\if@openright\cleardoublepage\else\clearpage\fi}
 
 % First paste in asciidoc-dblatex.sty’s body, as we can’t specify multiple --texstyle arguments to dblatex
@@ -19,7 +19,6 @@
 \renewcommand{\plainfootrulewidth}{0pt}
 \setmainfont{TeX Gyre Bonum}
 \setsansfont{TeX Gyre Bonum}
-\renewcommand{\part}[1]{\clearpage} % Hack to get page break after epigraph
 
 % Help with tricky lines
 \setlength{\emergencystretch}{.06\textwidth}

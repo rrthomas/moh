@@ -13,9 +13,6 @@ Mother of Hydrogen
 // Default class for a book is “report”!
 // a2x: --dblatex-opts "--param=latex.class.book=book"
 //
-// Don’t start chapters on a right-hand page
-// a2x: --dblatex-opts "--param=latex.class.options=openany"
-//
 // Don’t number anything in dblatex
 // a2x: --dblatex-opts "--param=doc.section.depth=-1"
 //
@@ -59,18 +56,25 @@ Mother of Hydrogen
 // FIXME: Acknowledge me
 // FIXME: Re-proof: check arc of blind faith in Peter→seeing more & more through him
 
+[dedication]
+[verse]
+To Annie, who loves ya,
+and Psyche and Bhavani Ma,
+who were unbroken links in the chain.
+
+[preface]
 ++++
 <epigraph>
-<simpara>
-<emphasis>The future is, in all things, our friend…<?asciidoc-br?>The future is both hope and fruition…<?asciidoc-br?>The future is the Bible of the free.</emphasis><?asciidoc-br?><?asciidoc-br?>—Herman Melville, <emphasis>White-Jacket</emphasis>
-</simpara>
+<literallayout>
+<emphasis>The future is, in all things, our friend…
+The future is both hope and fruition…
+The future is the Bible of the free.</emphasis>
+
+—Herman Melville, <emphasis>White-Jacket</emphasis>
+</literallayout>
 </epigraph>
 ++++
 
-// Force a page break so Preface starts on a right-hand page
-// See also redefinition of \part in moh.sty
-// (adding an <?asciidoc-pagebreak?> here does not work, just changes the spacing on the previous page)
-= {nbsp}
 == Preface
 
 I wrote the bulk of _Mother of Hydrogen_, 60,000 words, in six days, November 22 through 27, 2012: NaNoWriMo became NaNoWriWk by accident.

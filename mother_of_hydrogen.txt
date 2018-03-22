@@ -53,7 +53,6 @@ Mother of Hydrogen
 // FIXME: Dust jacket (back flap (biog & photo of Vinay), back cover (blurb) + spine + front cover + front flap (blurb: about what?))
 // FIXME: Foreword
 // FIXME: Blurbs from readers
-// FIXME: Acknowledge me
 // FIXME: Re-proof: check arc of blind faith in Peter→seeing more & more through him
 
 [dedication]
@@ -77,12 +76,13 @@ The future is the Bible of the free.</emphasis>
 
 == Preface
 
-I wrote the bulk of _Mother of Hydrogen_, 60,000 words, in six days, November 22 through 27, 2012: NaNoWriMo became NaNoWriWk by accident.
-I do not know how I did it. I used Emacs.
+This novel is both a companion to and a synthesis of the ideas in _The Future We Deserve_, a collection of a hundred short essays, all from different authors, that I edited with Cat Lupton and Noah Raford, which came out in November 2012.
 
-The novel is both a companion to and a synthesis of the ideas in _The Future We Deserve_, a collection of a hundred short essays, all from different authors, that I edited with Cat Lupton and Noah Raford, which came out earlier that same month.
+I wrote the bulk of _Mother of Hydrogen_, 60,000 words, in six days towards the end of that month, November 22 through 27: NaNoWriMo became NaNoWriWk by accident.
+I do not know how I did it. I used Emacs. Its emergence as a finished book I owe to Reuben Thomas: he took up the challenge in late 2017, and in a few short months turned my raw brain-dump into readable prose and made it into a book, adding the ending I had just written, and badgering me to fill various lacunae and elucidate several obscure passages.
+Of course, any remaining faults remain mine!
 
-I’d like to thank, in no particular order, James Hester, Nathan Koren
+I’d also like to thank, in no particular order, James Hester, Nathan Koren
 and Jay Springett for their help, friendship and assistance; Ásta
 Helgadóttir, who said something inspiring; Dougald Hine for wise
 council over many years, whether he knew it or not; and Bembo Davies

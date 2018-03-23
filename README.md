@@ -10,24 +10,16 @@ This is Vinay Gupta’s novel of the near future.
 
 # Building
 
-You will need `asciidoc`.
+You will need `asciidoc` and GNU make.
 
 ## PDF
 
 To make a PDF, you will need `dblatex` and a LaTeX system such as TeXLive, and if you’re using asciidoc 8.6.9 or earlier, copy the file `asciidoc-dblatex.xsl` over its copy, typically in `/etc/asciidoc/dblatex`.
 
-To build a PDF, use the following command:
-
-```
-a2x mother_of_hydrogen.txt
-```
+To build a PDF, use the following command: `make pdf`.
 
 ## EBUB
 
 To make an EPUB, you will also `xsltproc` and `epubcheck`.
 
-To build an EPUB, use the following command:
-
-```
-a2x -f epub mother_of_hydrogen.txt
-```
+To build an EPUB, use the following command: `make epub`.

@@ -13,5 +13,8 @@ The cover images are from NASA.
 <simpara>
   Book design by Reuben Thomas rrt@sc3d.org
 </simpara>
+<simpara>
+  This edition was made from Git commit {sys:git describe --tags}.
+</simpara>
 </legalnotice>
 <copyright><year>2012</year><year>2018</year><holder>{author}</holder></copyright>

@@ -1,0 +1,25 @@
+\input{outside-preamble}
+\newlength{\outsidespinewidth} % paper thickness
+\setlength{\outsidespinewidth}{\outsidepaperwidth}
+\makeatletter
+\setbox\z@=\hbox{\XeTeXpdffile"\bookfile"\relax}
+\newlength{\outsidecoverwidth} % paper width
+\setlength{\outsidecoverwidth}{\the\wd\z@}
+\newlength{\outsidecoverheight} % coverheight: paper height
+\setlength{\outsidecoverheight}{\the\ht\z@}
+\makeatother
+\documentclass[12pt,coverwidth=\the\outsidecoverwidth,coverheight=\the\outsidecoverheight,spinewidth=\the\outsidespinewidth,marklength=0mm,bleedwidth=5mm]{bookcover}
+
+\usepackage{contour}
+\usepackage{moh}
+
+% N.B. All text and images should be 6mm away from all edges
+\begin{document}
+\begin{bookcover}
+  \include{cover-parts}
+\end{bookcover}
+\end{document}
+
+% Local Variables:
+% ispell-local-dictionary: "american"
+% End:

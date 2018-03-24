@@ -50,7 +50,6 @@ Mother of Hydrogen
 // Check EPUB when building it
 // a2x: --epubcheck
 //
-// FIXME: Dust jacket (back flap (biog & photo of Vinay), back cover (blurb) + spine + front cover + front flap (blurb: about what?))
 // FIXME: Foreword
 // FIXME: Blurbs from readers
 // FIXME: Re-proof: check arc of blind faith in Peter→seeing more & more through him

@@ -1,0 +1,10 @@
+\def\bookfile{mother_of_hydrogen.pdf}
+\def\booktitle{Mother of Hydrogen}
+
+\input{paper-type}
+
+\newcounter{bookpagecount}
+\setcounter{bookpagecount}{\XeTeXpdfpagecount"\bookfile"}
+\RequirePackage{calc} % This line must be after the previous to avoid an error
+\newlength{\outsidepaperwidth} % no. of pages ÷ 2 × width per sheet
+\setlength{\outsidepaperwidth}{\bookpaper * \value{bookpagecount} / \real{2.0}}

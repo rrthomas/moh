@@ -9,10 +9,14 @@ SOURCES = $(BOOKFILE) moh.sty docinfo.xml
 TYPES = pdf epub
 
 pdf: $(SOURCES)
-	a2x $(BOOKFILE)
+	a2x --attribute=docinfo2 $(BOOKFILE)
 
 epub: $(SOURCES)
-	a2x --format=epub $(BOOKFILE)
+	a2x --attribute=docinfo2 --format=epub $(BOOKFILE)
+
+print: $(SOURCES)
+	a2x $(BOOKFILE)
+	latexmk -xelatex dust-jacket.tex cover.tex
 
 
 # To make a release: git tag vx.y && git push --tags && make release

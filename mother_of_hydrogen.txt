@@ -91,9 +91,8 @@ The Hexayurt Project is real! See http://hexayurt.com
 
 I’ve been a lifelong mystic, and I’m tired of hiding. I tell you true: please stop hurting each other, it’s breaking my heart.
 
-// FIXME: Right align
+// FIXME: Right align, gap before para
 // FIXME: No space at start of next line in EPUB
-{nbsp} +
 _Vinay Gupta @leashless London, April 2018_
 
 == One

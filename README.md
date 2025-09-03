@@ -10,16 +10,16 @@ This is Vinay Gupta’s novel of the near future.
 
 # Building
 
-You will need `asciidoc` and GNU make.
+You will need `asciidoctor` and GNU make.
 
 ## PDF
 
-To make a PDF, you will need `dblatex` and a LaTeX system such as TeXLive.
+To make a PDF, you will also need the PDF extension for `asciidoctor`.
 
 To build a PDF, use the following command: `make pdf`.
 
 ## EBUB
 
-To make an EPUB, you will also `xsltproc` and `epubcheck`.
+To make an EPUB, you will also need `xsltproc` and `epubcheck`.
 
 To build an EPUB, use the following command: `make epub`.

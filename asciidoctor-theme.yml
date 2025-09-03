@@ -1,0 +1,20 @@
+extends: default # FIXME: -for-print for print!
+font:
+  catalog:
+    URW Bookman L:
+      normal: "URW Bookman L.ttf"
+      italic: "URW Bookman L Italic.ttf"
+      bold: "URW Bookman L Bold.ttf"
+      bold_italic: "URW Bookman L Bold Italic.ttf"
+base:
+  font_family: URW Bookman L
+verse:
+  font-size: 11
+page:
+  size: [156mm, 234mm]
+  margin: 26mm
+  margin-inner: 17.333mm
+  margin-outer: 34.667mm
+cover:
+  front:
+    image: Cover.jpg

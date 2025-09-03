@@ -9,11 +9,13 @@ SOURCES = $(BOOKFILE) moh.sty docinfo.xml
 TYPES = pdf epub
 
 pdf: $(SOURCES)
-	a2x --attribute=docinfo2 $(BOOKFILE)
+	asciidoctor-pdf --trace --theme asciidoctor-theme.yml -a pdf-fontsdir="." $(BOOKFILE)
 
+# FIXME
 epub: $(SOURCES)
 	a2x --attribute=docinfo2 --format=epub $(BOOKFILE)
 
+# FIXME
 print: $(SOURCES)
 	a2x $(BOOKFILE)
 	latexmk -xelatex dust-jacket.tex cover.tex

@@ -4,46 +4,7 @@ Mother of Hydrogen
 :author: Vinay Gupta
 :doctype: book
 :lang: en
-// Use docinfo.xml
-:docinfo1:
 
-// Use XeTeX, for punctuation line break rules
-// a2x: --dblatex-opts "--backend=xetex"
-//
-// Default class for a book is “report”!
-// a2x: --dblatex-opts "--param=latex.class.book=book"
-//
-// Don’t number anything in dblatex
-// a2x: --dblatex-opts "--param=doc.section.depth=-1"
-//
-// Suppress book part, chapter and section numbering in DocBook XSL outputs
-// a2x: --xsltproc-opts
-// a2x: "--stringparam part.autolabel 0
-// a2x: --stringparam chapter.autolabel 0
-// a2x: --stringparam section.autolabel.max.depth 0"
-//
-// Set paper size to Royal Octavo, and appropriate margins
-// a2x: --dblatex-opts "--param=page.width=156mm --param=page.height=234mm --param=page.margin.top=26mm --param=page.margin.bottom=26mm --param=page.margin.inner=17.333mm --param=page.margin.outer=34.667mm"
-//
-// Allow cover image to fill the page
-// (Default is “pagebound”, but dblatex uses \textheight and \textwidth)
-// a2x: --dblatex-opts "--param=imagedata.default.scale=maxwidth=156mm,maxheight=234mm"
-//
-// Don’t put dblatex logo on title page
-// a2x: --dblatex-opts "--param=doc.publisher.show=0"
-//
-// Don’t include revision history
-// a2x: --dblatex-opts "--param=latex.output.revhistory=0"
-//
-// Don’t include ToC
-// a2x: --dblatex-opts "--param=doc.toc.show=0"
-//
-// Make verse appear in normal font (workaround for dblatex bug and asciidoc workaround for it; see https://github.com/asciidoc/asciidoc/pull/126)
-// a2x: --dblatex-opts "--param=literal.class=normal"
-//
-// Color hyperlinks black (for printing).
-// a2x: --dblatex-opts "--param=latex.hyperparam=colorlinks,allcolors=black -d"
-//
 // Use moh.sty
 // a2x: --dblatex-opts --texstyle=moh
 //
@@ -60,18 +21,12 @@ To Annie, who loves ya,
 and Psyche and Bhavani Ma,
 who were unbroken links in the chain.
 
-[preface]
-++++
-<epigraph>
-<literallayout>
-<emphasis>The future is, in all things, our friend…
+[verse.epigraph]
+The future is, in all things, our friend…
 The future is both hope and fruition…
-The future is the Bible of the free.</emphasis>
+The future is the Bible of the free.
 
-—Herman Melville, <emphasis>White-Jacket</emphasis>
-</literallayout>
-</epigraph>
-++++
+—Herman Melville, _White-Jacket_
 
 == Preface
 

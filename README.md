@@ -14,7 +14,7 @@ You will need `asciidoc` and GNU make.
 
 ## PDF
 
-To make a PDF, you will need `dblatex` and a LaTeX system such as TeXLive, and if you’re using asciidoc 8.6.9 or earlier, copy the file `asciidoc-dblatex.xsl` over its copy, typically in `/etc/asciidoc/dblatex`.
+To make a PDF, you will need `dblatex` and a LaTeX system such as TeXLive.
 
 To build a PDF, use the following command: `make pdf`.
 

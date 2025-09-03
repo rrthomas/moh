@@ -18,12 +18,10 @@ print: $(SOURCES)
 	a2x $(BOOKFILE)
 	latexmk -xelatex dust-jacket.tex cover.tex
 
-
-# To make a release: git tag vx.y && git push --tags && make release
-# Needs woger from https://github.com/rrthomas/woger/
+# To make a release: git tag vx.y && make release
 release: $(TYPES)
-	git diff --exit-code && \
-	woger github github_user=rrthomas package=$(PROJECT) version=$(VERSION) dist_type=zip github_dist_type=pdf
+	FILES="" && \
 	for i in $(TYPES); do \
-	    github-release upload --user rrthomas --repo $(PROJECT) --tag $(TAG) --name $(PROJECT)-$(VERSION).pdf --file mother_of_hydrogen.$$i --security-token `netrc -p github-release.github.com`; \
-	done
+	    FILES="$$FILES mother_of_hydrogen.$$i"; \
+	done && \
+	gh release create v$(VERSION) --title "Release v$(VERSION)" $$FILES
